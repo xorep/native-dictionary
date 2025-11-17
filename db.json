@@ -1,0 +1,4104 @@
+[
+  {
+    "id": "1",
+    "english": "tranquility",
+    "persian": "آرامش",
+    "learned": false,
+    "description": "What can disturb such tranquility? — چه چیزی می‌تواند چنین آرامشی را به هم بزند؟"
+  },
+  {
+    "id": "2",
+    "english": "legend",
+    "persian": "افسانه",
+    "learned": false,
+    "description": "This book is a combination of fact and legend. — این کتاب ترکیبی از واقعیت و افسانه است."
+  },
+  {
+    "id": "3",
+    "english": "depletion",
+    "persian": "کاهش، تقلیل",
+    "learned": false,
+    "description": "The depletion of the world’s natural resources. — کاهش منابع طبیعی جهان."
+  },
+  {
+    "id": "4",
+    "english": "extortion",
+    "persian": "اخاذی",
+    "learned": false,
+    "description": "Rebels extorted money from local villagers. — شورشیان از روستاییان پول اخاذی کردند."
+  },
+  {
+    "id": "5",
+    "english": "confidential",
+    "persian": "محرمانه",
+    "learned": false,
+    "description": "Confidential letter. — نامه محرمانه."
+  },
+  {
+    "id": "6",
+    "english": "baffle",
+    "persian": "گیج کردن",
+    "learned": false,
+    "description": "This strange and complicated case had baffled the police for many years. — این پرونده پیچیده و عجیب سال‌ها پلیس را گیج کرده بود."
+  },
+  {
+    "id": "7",
+    "english": "encircle",
+    "persian": "احاطه کردن / دور چیزی گشتن",
+    "learned": false,
+    "description": "The island was encircled by water. — جزیره توسط آب احاطه شده بود."
+  },
+  {
+    "id": "8",
+    "english": "unwarranted",
+    "persian": "بی‌مورد، نابه‌جا",
+    "learned": false,
+    "description": "Much of the criticism was totally unwarranted. — بسیاری از انتقادات کاملاً بی‌مورد بود."
+  },
+  {
+    "id": "9",
+    "english": "ingenious",
+    "persian": "نابغه / مبتکرانه",
+    "learned": false,
+    "description": "Jim devised an ingenious plan to avoid paying tax. — جیم نقشه‌ای مبتکرانه برای اجتناب از پرداخت مالیات طراحی کرد."
+  },
+  {
+    "id": "10",
+    "english": "exceed",
+    "persian": "تجاوز کردن (از حد چیزی)",
+    "learned": false,
+    "description": "He claimed that he was not exceeding the speed limit. — او ادعا کرد از محدودیت سرعت تجاوز نکرده است."
+  },
+  {
+    "id": "11",
+    "english": "conformity",
+    "persian": "انطباق، مطابقت",
+    "learned": false,
+    "description": "Was his action in conformity with the law? — آیا اعمال او با قانون مطابقت داشت؟"
+  },
+  {
+    "id": "12",
+    "english": "obesity",
+    "persian": "چاقی",
+    "learned": false,
+    "description": "Obesity has become a serious health problem. — چاقی به یک مشکل جدی سلامتی تبدیل شده است."
+  },
+  {
+    "id": "13",
+    "english": "sanction",
+    "persian": "تحریم",
+    "learned": false,
+    "description": "Economic sanction. — تحریم اقتصادی."
+  },
+  {
+    "id": "14",
+    "english": "mundane",
+    "persian": "پیش‌پاافتاده، معمولی",
+    "learned": false,
+    "description": "Initially, the work was pretty mundane. — در ابتدا، کار تا حدی پیش‌پاافتاده بود."
+  },
+  {
+    "id": "15",
+    "english": "erosion",
+    "persian": "فرسایش",
+    "learned": false,
+    "description": "Soil erosion. — فرسایش خاک."
+  },
+  {
+    "id": "16",
+    "english": "contemporary",
+    "persian": "معاصر",
+    "learned": false,
+    "description": "Contemporary poet/writer. — شاعر/نویسنده معاصر."
+  },
+  {
+    "id": "17",
+    "english": "interfere",
+    "persian": "تداخل کردن / دخالت کردن",
+    "learned": false,
+    "description": "Don’t interfere in matters that do not concern you. — در موضوعاتی که به شما مربوط نیست دخالت نکنید."
+  },
+  {
+    "id": "18",
+    "english": "duplicate",
+    "persian": "کپی کردن، تکثیر کردن",
+    "learned": false,
+    "description": "We duplicated the document so that everyone had a copy to study. — ما سند را کپی کردیم تا همه یک نسخه برای مطالعه داشته باشند."
+  },
+  {
+    "id": "19",
+    "english": "persecution",
+    "persian": "آزار و اذیت",
+    "learned": false,
+    "description": "Persecution of writers who criticize the government. — آزار نویسندگانی که دولت را نقد می‌کنند."
+  },
+  {
+    "id": "20",
+    "english": "vicinity",
+    "persian": "نزدیکی، حوالی",
+    "learned": false,
+    "description": "Is there a police station in this vicinity? — آیا ایستگاه پلیس در این نزدیکی وجود دارد؟"
+  },
+  {
+    "id": "21",
+    "english": "subside",
+    "persian": "فروکش کردن",
+    "learned": false,
+    "description": "Jim’s anger subsided when the culprit apologized. — عصبانیت جیم بعد از اینکه مجرم عذرخواهی کرد فروکش کرد."
+  },
+  {
+    "id": "22",
+    "english": "underestimate",
+    "persian": "دست کم گرفتن",
+    "learned": false,
+    "description": "Do not underestimate your abilities. — توانایی‌هایت را دست کم نگیر."
+  },
+  {
+    "id": "23",
+    "english": "initiation",
+    "persian": "شروع / معرفی",
+    "learned": false,
+    "description": "The initiation of a new project. — شروع یک پروژه جدید."
+  },
+  {
+    "id": "24",
+    "english": "exhibit",
+    "persian": "به نمایش گذاشتن / بروز دادن",
+    "learned": false,
+    "description": "He exhibited his new collection of paintings at a gallery. — او مجموعه جدید نقاشی‌هایش را در گالری به نمایش گذاشت."
+  },
+  {
+    "id": "25",
+    "english": "harvest",
+    "persian": "برداشت محصول",
+    "learned": false,
+    "description": "Many workers were needed to harvest the crops. — کارگران زیادی برای برداشت محصول لازم بودند."
+  },
+  {
+    "id": "26",
+    "english": "mission",
+    "persian": "مأموریت",
+    "learned": false,
+    "description": "A successful mission. — یک مأموریت موفقیت‌آمیز."
+  },
+  {
+    "id": "27",
+    "english": "sensitive",
+    "persian": "حساس",
+    "learned": false,
+    "description": "Older people are sensitive to cold. — افراد مسن نسبت به سرما حساس هستند."
+  },
+  {
+    "id": "28",
+    "english": "gigantic",
+    "persian": "غول‌پیکر، خیلی بزرگ",
+    "learned": false,
+    "description": "The whale is a gigantic creature. — وال یک موجود غول‌پیکر است."
+  },
+  {
+    "id": "29",
+    "english": "sufficient",
+    "persian": "کافی",
+    "learned": false,
+    "description": "They didn’t have sufficient evidence to convict him. — آنها شواهد کافی برای محکوم کردن او نداشتند."
+  },
+  {
+    "id": "30",
+    "english": "municipal",
+    "persian": "وابسته به شهرداری",
+    "learned": false,
+    "description": "Municipal elections. — انتخابات شهرداری."
+  },
+  {
+    "id": "31",
+    "english": "compatible",
+    "persian": "سازگار، جور",
+    "learned": false,
+    "description": "Your old printer may not be compatible with your new computer. — پرینتر قدیمی شما ممکن است با کامپیوتر جدیدتان سازگار نباشد."
+  },
+  {
+    "id": "32",
+    "english": "prosecute",
+    "persian": "پیگرد قانونی کردن",
+    "learned": false,
+    "description": "Drunken drivers should be prosecuted. — رانندگان مست باید تحت پیگرد قانونی قرار گیرند."
+  },
+  {
+    "id": "33",
+    "english": "devastate",
+    "persian": "تخریب کردن، ویران کردن",
+    "learned": false,
+    "description": "The city was devastated by bombs. — شهر توسط بمب‌ها ویران شد."
+  },
+  {
+    "id": "34",
+    "english": "repetition",
+    "persian": "تکرار",
+    "learned": false,
+    "description": "Repetition of new words will help you memorize. — تکرار کلمات جدید به شما کمک می‌کند آنها را حفظ کنید."
+  },
+  {
+    "id": "35",
+    "english": "revolution",
+    "persian": "انقلاب، تحول",
+    "learned": false,
+    "description": "The industrial revolution. — انقلاب صنعتی."
+  },
+  {
+    "id": "36",
+    "english": "revise",
+    "persian": "بازنگری کردن / مرور کردن / اصلاح کردن",
+    "learned": false,
+    "description": "She is revising for her history exam. — او برای امتحان تاریخش مرور می‌کند."
+  },
+  {
+    "id": "37",
+    "english": "resume",
+    "persian": "دوباره از سر گرفتن",
+    "learned": false,
+    "description": "She hopes to resume work after the baby is born. — او امیدوار است بعد از تولد بچه دوباره کارش را از سر گیرد."
+  },
+  {
+    "id": "38",
+    "english": "surplus",
+    "persian": "اضافی، مازاد",
+    "learned": false,
+    "description": "The surplus steam was blown off through the pipes. — بخار اضافی از لوله‌ها خارج می‌شد."
+  },
+  {
+    "id": "39",
+    "english": "unanimous",
+    "persian": "هم‌رأی، به اتفاق آراء",
+    "learned": false,
+    "description": "The proposal was approved by unanimous vote. — پیشنهاد به اتفاق آراء تصویب شد."
+  },
+  {
+    "id": "40",
+    "english": "familiar",
+    "persian": "آشنا",
+    "learned": false,
+    "description": "She was familiar with some of the author’s works. — او با برخی از آثار نویسنده آشنا بود."
+  },
+  {
+    "id": "41",
+    "english": "typical",
+    "persian": "معمولی، رایج",
+    "learned": false,
+    "description": "An eight-hour working day is typical for many people. — یک روز کاری ۸ ساعته برای بسیاری از مردم عادی است."
+  },
+  {
+    "id": "42",
+    "english": "hamper",
+    "persian": "مانع شدن",
+    "learned": false,
+    "description": "The rescue attempt was hampered by bad weather. — تلاش برای نجات با هوای بد مختل شد."
+  },
+  {
+    "id": "43",
+    "english": "disperse",
+    "persian": "پراکنده کردن",
+    "learned": false,
+    "description": "Police used tear gas to disperse the crowd. — پلیس از گاز اشک‌آور برای پراکنده کردن جمعیت استفاده کرد."
+  },
+  {
+    "id": "44",
+    "english": "transform",
+    "persian": "تبدیل کردن، تغییر دادن",
+    "learned": false,
+    "description": "Heat and pressure can transform carbon into diamond. — گرما و فشار می‌توانند کربن را به الماس تبدیل کنند."
+  },
+  {
+    "id": "45",
+    "english": "diligent",
+    "persian": "کوشا، سخت‌کوش",
+    "learned": false,
+    "description": "A diligent student. — یک دانش‌آموز کوشا."
+  },
+  {
+    "id": "46",
+    "english": "tempt",
+    "persian": "وسوسه کردن",
+    "learned": false,
+    "description": "If you leave valuables in your car, it will tempt thieves. — اگر وسایل گران‌بها را در ماشین بگذارید، دزدان وسوسه می‌شوند."
+  },
+  {
+    "id": "47",
+    "english": "undergo",
+    "persian": "تجربه کردن",
+    "learned": false,
+    "description": "The earth has undergone an ice age. — زمین یک عصر یخبندان را تجربه کرده است."
+  },
+  {
+    "id": "48",
+    "english": "skeptical",
+    "persian": "مردد، دودل",
+    "learned": false,
+    "description": "I am extremely skeptical about what I read in the press. — من درباره آنچه در مطبوعات خواندم بسیار مردد هستم."
+  },
+  {
+    "id": "49",
+    "english": "accompany",
+    "persian": "همراهی کردن",
+    "learned": false,
+    "description": "Jim agreed to accompany me on a trip to Africa. — جیم موافقت کرد مرا در سفر به آفریقا همراهی کند."
+  },
+  {
+    "id": "50",
+    "english": "accelerate",
+    "persian": "تسریع کردن، سرعت بخشیدن",
+    "learned": false,
+    "description": "Exposure to the sun accelerates the aging process. — قرار گرفتن در معرض خورشید روند پیری را تسریع می‌کند."
+  },
+  {
+    "id": "51",
+    "english": "substantial",
+    "persian": "چشم‌گیر، قابل توجه",
+    "learned": false,
+    "description": "There are substantial differences between the two groups. — تفاوت‌های چشم‌گیری بین دو گروه وجود دارد."
+  },
+  {
+    "id": "52",
+    "english": "oscillate",
+    "persian": "نوسان کردن",
+    "learned": false,
+    "description": "The stock market has a tendency to oscillate. — بازار سهام گرایش به نوسان دارد."
+  },
+  {
+    "id": "53",
+    "english": "progression",
+    "persian": "پیشرفت",
+    "learned": false,
+    "description": "A blood test will help doctors measure the progression of the disease. — تست خون به پزشکان کمک می‌کند پیشرفت بیماری را اندازه‌گیری کنند."
+  },
+  {
+    "id": "54",
+    "english": "take apart",
+    "persian": "جدا کردن",
+    "learned": false,
+    "description": "Tom always takes apart things in the garage. — تام همیشه چیزها را در گاراژ جدا می‌کند."
+  },
+  {
+    "id": "55",
+    "english": "cultivate",
+    "persian": "کشت دادن / پرورش دادن",
+    "learned": false,
+    "description": "The people cultivate mainly rice and beans. — مردم عمدتاً برنج و لوبیا می‌کارند."
+  },
+  {
+    "id": "56",
+    "english": "complex",
+    "persian": "پیچیده",
+    "learned": false,
+    "description": "A very complex mathematical problem. — یک مسئله ریاضی بسیار پیچیده."
+  },
+  {
+    "id": "57",
+    "english": "division",
+    "persian": "تقسیم",
+    "learned": false,
+    "description": "To divide the apple into two halves. — تقسیم سیب به دو قسمت."
+  },
+  {
+    "id": "58",
+    "english": "labor",
+    "persian": "کار / کار کردن",
+    "learned": false,
+    "description": "Carpet weaving requires a lot of labor. — فرش‌بافی نیاز به زحمت زیادی دارد."
+  },
+  {
+    "id": "59",
+    "english": "defend",
+    "persian": "دفاع کردن",
+    "learned": false,
+    "description": "They tried to defend themselves against the enemy. — آن‌ها سعی کردند از خود در برابر دشمن دفاع کنند."
+  },
+  {
+    "id": "60",
+    "english": "examine",
+    "persian": "آزمایش کردن / بررسی کردن",
+    "learned": false,
+    "description": "The detective examined the fingerprint. — کارآگاه اثر انگشت را بررسی کرد."
+  },
+  {
+    "id": "61",
+    "english": "dictate",
+    "persian": "امر کردن",
+    "learned": false,
+    "description": "Islamic custom dictates that women should be fully covered. — رسم اسلامی به زنان امر می‌کند که باید کاملاً پوشیده باشند."
+  },
+  {
+    "id": "62",
+    "english": "nonsense",
+    "persian": "چرت و پرت",
+    "learned": false,
+    "description": "He thinks these abstract paintings are nonsense. — او فکر می‌کند این نقاشی‌های انتزاعی چرت و پرت هستند."
+  },
+  {
+    "id": "63",
+    "english": "deal with",
+    "persian": "رسیدگی کردن",
+    "learned": false,
+    "description": "We need to deal with problems like air pollution. — ما باید به مشکلاتی مانند آلودگی هوا رسیدگی کنیم."
+  },
+  {
+    "id": "64",
+    "english": "enclose",
+    "persian": "ضمیمه کردن / احاطه کردن",
+    "learned": false,
+    "description": "An enclosed area. — یک ناحیه محصور."
+  },
+  {
+    "id": "65",
+    "english": "encounter",
+    "persian": "مواجه شدن",
+    "learned": false,
+    "description": "They encountered serious problems when two members of the expedition were injured. — آن‌ها با مشکلات جدی مواجه شدند وقتی دو عضو سفر مجروح شدند."
+  },
+  {
+    "id": "66",
+    "english": "consist of",
+    "persian": "شامل شدن / تشکیل شدن از",
+    "learned": false,
+    "description": "A company’s assets can consist of cash and investment. — دارایی‌های یک شرکت می‌تواند شامل وجه نقد و سرمایه باشد."
+  },
+  {
+    "id": "67",
+    "english": "destination",
+    "persian": "مقصد",
+    "learned": false,
+    "description": "Tourist destination. — مقصد گردشگری."
+  },
+  {
+    "id": "68",
+    "english": "reverse",
+    "persian": "معکوس",
+    "learned": false,
+    "description": "The results were read in reverse order. — نتایج به ترتیب معکوس خوانده شد."
+  },
+  {
+    "id": "69",
+    "english": "fragile",
+    "persian": "شکستنی",
+    "learned": false,
+    "description": "Be careful with that antique vase because it is very fragile. — مواظب آن گلدان انتیک باش، چون خیلی شکستنی است."
+  },
+  {
+    "id": "70",
+    "english": "upgrade",
+    "persian": "ارتقا دادن",
+    "learned": false,
+    "description": "Upgrade your software. — نرم‌افزار خود را ارتقا دهید."
+  },
+  {
+    "id": "71",
+    "english": "derive (from)",
+    "persian": "مشتق شدن از",
+    "learned": false,
+    "description": "Many English words derive from Latin. — بسیاری از لغات انگلیسی از لاتین مشتق شده‌اند."
+  },
+  {
+    "id": "72",
+    "english": "apparent",
+    "persian": "واضح / آشکار",
+    "learned": false,
+    "description": "Apparent reason. — دلیل آشکار."
+  },
+  {
+    "id": "73",
+    "english": "illegible",
+    "persian": "ناخوانا",
+    "learned": false,
+    "description": "Your handwriting is illegible. — دست‌خط شما ناخواناست."
+  },
+  {
+    "id": "74",
+    "english": "craft",
+    "persian": "هنر دستی",
+    "learned": false,
+    "description": "An international craft festival. — جشنواره بین‌المللی صنایع دستی."
+  },
+  {
+    "id": "75",
+    "english": "distribute",
+    "persian": "توزیع کردن",
+    "learned": false,
+    "description": "Villagers dispensed tea to visitors. — روستاییان چای را بین بازدیدکنندگان توزیع کردند."
+  },
+  {
+    "id": "76",
+    "english": "incline",
+    "persian": "تمایل داشتن",
+    "learned": false,
+    "description": "He is inclined to be a vegetarian. — او تمایل دارد گیاهخوار باشد."
+  },
+  {
+    "id": "77",
+    "english": "occupation",
+    "persian": "شغل / حرفه",
+    "learned": false,
+    "description": "Writing has been his occupation for many years. — نویسندگی حرفه او برای سال‌ها بوده است."
+  },
+  {
+    "id": "78",
+    "english": "adherence",
+    "persian": "چسبندگی / پایبندی",
+    "learned": false,
+    "description": "His adherence to fashion. — پایبندی او به مد."
+  },
+  {
+    "id": "79",
+    "english": "negotiate",
+    "persian": "مذاکره کردن",
+    "learned": false,
+    "description": "They are willing to negotiate with terrorists. — آن‌ها حاضر به مذاکره با تروریست‌ها هستند."
+  },
+  {
+    "id": "80",
+    "english": "divergence",
+    "persian": "انحراف / واگرایی",
+    "learned": false,
+    "description": "These parallel lines appear to diverge. — این خطوط موازی به نظر می‌رسد واگرا شوند."
+  },
+  {
+    "id": "81",
+    "english": "excuse",
+    "persian": "عذر / معاف کردن",
+    "learned": false,
+    "description": "The government excused him from military service. — دولت او را از خدمت سربازی معاف کرد."
+  },
+  {
+    "id": "82",
+    "english": "restore",
+    "persian": "به حالت اولیه بازگرداندن",
+    "learned": false,
+    "description": "To restore a deleted picture. — بازگرداندن یک عکس حذف‌شده."
+  },
+  {
+    "id": "83",
+    "english": "offensive",
+    "persian": "توهین‌آمیز",
+    "learned": false,
+    "description": "Offensive words. — کلمات توهین‌آمیز."
+  },
+  {
+    "id": "84",
+    "english": "clue",
+    "persian": "سرنخ / راهنمایی",
+    "learned": false,
+    "description": "Kevin, I will give you a clue. It is a kind of bird. — کوین، به تو یک سرنخ می‌دهم، این نوعی پرنده است."
+  },
+  {
+    "id": "85",
+    "english": "discern",
+    "persian": "فهمیدن / درک کردن",
+    "learned": false,
+    "description": "Officials were keen to discern how many people voted. — مقامات مشتاق بودند بفهمند چه تعداد افراد رأی دادند."
+  },
+  {
+    "id": "86",
+    "english": "pause",
+    "persian": "مکث کردن / مکث",
+    "learned": false,
+    "description": "He paused for a minute. — او برای یک دقیقه مکث کرد."
+  },
+  {
+    "id": "87",
+    "english": "infinitely",
+    "persian": "به طور بی‌نهایت",
+    "learned": false,
+    "description": "You are infinitely precious to me. — تو برای من بی‌نهایت ارزشمندی."
+  },
+  {
+    "id": "88",
+    "english": "fallacious",
+    "persian": "دروغین / غلط",
+    "learned": false,
+    "description": "Fallacious reasoning. — استدلال غلط."
+  },
+  {
+    "id": "89",
+    "english": "plausible",
+    "persian": "باورکردنی / شدنی",
+    "learned": false,
+    "description": "He didn’t think it was plausible that all differences could be explained this way. — او فکر نمی‌کرد شدنی باشد که همه تفاوت‌ها به این روش توضیح داده شوند."
+  },
+  {
+    "id": "90",
+    "english": "vulnerable",
+    "persian": "آسیب‌پذیر",
+    "learned": false,
+    "description": "These plants are delicate and vulnerable to cold. — این گیاهان لطیف هستند و نسبت به سرما آسیب‌پذیرند."
+  },
+  {
+    "id": "91",
+    "english": "advocate",
+    "persian": "طرفداری کردن / جانبداری",
+    "learned": false,
+    "description": "He is well known for his advocacy of women’s rights. — او برای طرفداری از حقوق زنان مشهور است."
+  },
+  {
+    "id": "92",
+    "english": "integrate",
+    "persian": "ادغام کردن",
+    "learned": false,
+    "description": "To integrate black students into white. — ادغام دانشجویان سیاه‌پوست با سفیدپوست."
+  },
+  {
+    "id": "93",
+    "english": "resist",
+    "persian": "مقاومت کردن",
+    "learned": false,
+    "description": "If the enemy invades our country, we will resist with all power. — اگر دشمن به کشورمان حمله کند، ما با تمام قدرت مقاومت خواهیم کرد."
+  },
+  {
+    "id": "94",
+    "english": "vacant",
+    "persian": "خالی",
+    "learned": false,
+    "description": "The shelves in the store were vacant after the sale. — قفسه‌های مغازه بعد از فروش خالی بودند."
+  },
+  {
+    "id": "95",
+    "english": "finalize",
+    "persian": "نهایی کردن",
+    "learned": false,
+    "description": "Mr. Johnson is flying to Canada to finalize the contract. — آقای جانسون در حال پرواز به کانادا است تا قرارداد را نهایی کند."
+  },
+  {
+    "id": "96",
+    "english": "efficiency",
+    "persian": "کارایی / بازدهی",
+    "learned": false,
+    "description": "The company is trying to improve efficiency and reduce costs. — شرکت سعی می‌کند کارایی خود را بهبود بخشد و هزینه‌ها را کاهش دهد."
+  },
+  {
+    "id": "97",
+    "english": "register",
+    "persian": "ثبت / ثبت نام",
+    "learned": false,
+    "description": "The college registered more foreign students this year. — دانشکده امسال دانشجویان خارجی بیشتری را ثبت‌نام کرد."
+  },
+  {
+    "id": "98",
+    "english": "foreword",
+    "persian": "مقدمه کتاب",
+    "learned": false,
+    "description": "The thesis consists of foreword, main part, and conclusion. — پایان‌نامه شامل مقدمه، قسمت اصلی و نتیجه است."
+  },
+  {
+    "id": "99",
+    "english": "introduction",
+    "persian": "معرفی / مقدمه کتاب",
+    "learned": false,
+    "description": "The introduction of the new manager. — معرفی مدیر جدید."
+  },
+  {
+    "id": "100",
+    "english": "advantage",
+    "persian": "سود / مزیت",
+    "learned": false,
+    "description": "One of the advantages of living in New York is that you can eat out any time of day. — یکی از مزایای زندگی در نیویورک این است که می‌توانید هر زمان بیرون غذا بخورید."
+  },
+  {
+    "id": "101",
+    "english": "sanctuary",
+    "persian": "پناهگاه",
+    "learned": false,
+    "description": "This area has been declared the bird sanctuary. — این ناحیه به‌عنوان پناهگاه پرندگان اعلام شده است."
+  },
+  {
+    "id": "102",
+    "english": "compare",
+    "persian": "مقایسه کردن",
+    "learned": false,
+    "description": "The police compared two fingerprints and found out they didn’t match. — پلیس دو اثر انگشت را مقایسه کرد و فهمید با هم مطابقت ندارند."
+  },
+  {
+    "id": "103",
+    "english": "aware",
+    "persian": "آگاه",
+    "learned": false,
+    "description": "You should be aware of all risks before you decide to have this type of surgery. — شما باید از همه خطرات آگاه باشید قبل از اینکه تصمیم بگیرید چنین جراحی داشته باشید."
+  },
+  {
+    "id": "104",
+    "english": "faith",
+    "persian": "ایمان، اعتقاد",
+    "learned": false,
+    "description": "People had faith in their leaders during that war. — افراد به رهبرانشان در طی جنگ ایمان داشتند."
+  },
+  {
+    "id": "105",
+    "english": "rigid",
+    "persian": "سفت و سخت، انعطاف‌ناپذیر",
+    "learned": false,
+    "description": "He tried to bend the pipe, but it was rigid. — او سعی کرد لوله را خم کند اما سفت و سخت بود."
+  },
+  {
+    "id": "106",
+    "english": "speculate",
+    "persian": "فکر کردن، گمانه زنی کردن",
+    "learned": false,
+    "description": "The new discovery has led scientists to speculate on the existence of other galaxies. — کشف جدید منجر شده است که دانشمندان درباره وجود کهکشان‌های دیگر فکر کنند."
+  },
+  {
+    "id": "107",
+    "english": "motive",
+    "persian": "انگیزه",
+    "learned": false,
+    "description": "Detectives were unable to find the motive for the murder. — کارآگاهان قادر نبودند انگیزه قتل را پیدا کنند."
+  },
+  {
+    "id": "108",
+    "english": "biased",
+    "persian": "متعصب",
+    "learned": false,
+    "description": "They were biased against foreigners. — آن‌ها علیه خارجی‌ها تعصب داشتند."
+  },
+  {
+    "id": "109",
+    "english": "impartial",
+    "persian": "غیرمتعصب، بی‌طرف",
+    "learned": false,
+    "description": "An impartial referee. — یک داور بی‌طرف."
+  },
+  {
+    "id": "110",
+    "english": "innovation",
+    "persian": "نوآوری، خلاقیت",
+    "learned": false,
+    "description": "She innovated new techniques that advanced the sport skating. — او تکنیک‌های جدیدی ابداع کرد که باعث پیشرفت ورزش اسکیت شد."
+  },
+  {
+    "id": "111",
+    "english": "surveillance",
+    "persian": "نظارت، کنترل",
+    "learned": false,
+    "description": "The suspects are under police surveillance. — مظنونین تحت نظارت پلیس هستند."
+  },
+  {
+    "id": "112",
+    "english": "oath",
+    "persian": "قسم، سوگند",
+    "learned": false,
+    "description": "In court, the witness took an oath that he would tell the truth. — در دادگاه، شاهد قسم خورد که حقیقت را بگوید."
+  },
+  {
+    "id": "113",
+    "english": "interruption",
+    "persian": "قطع سخن یا حرف کسی",
+    "learned": false,
+    "description": "It is not polite to interrupt a speaker with frequent questions. — مودبانه نیست که حرف گوینده را با سوالات مکرر قطع کنید."
+  },
+  {
+    "id": "114",
+    "english": "actuality",
+    "persian": "واقعیت",
+    "learned": false,
+    "description": "A trip to the moon is now an actuality. — سفر به ماه اکنون یک واقعیت است."
+  },
+  {
+    "id": "115",
+    "english": "reflective",
+    "persian": "انعکاسی",
+    "learned": false,
+    "description": "The surface of the lake reflected the bright sunlight. — سطح دریاچه نور خورشید را منعکس کرد."
+  },
+  {
+    "id": "116",
+    "english": "distraction",
+    "persian": "حواس پرتی",
+    "learned": false,
+    "description": "I study in the library when there are too many distractions at home. — من در کتابخانه مطالعه می‌کنم زمانی که حواس‌پرتی‌های زیادی در خانه است."
+  },
+  {
+    "id": "117",
+    "english": "definite",
+    "persian": "۱. قطعی ۲. مشخص",
+    "learned": false,
+    "description": "Can you give me a definite answer by tomorrow? — می‌توانی تا فردا یک جواب قطعی به من بدهی؟"
+  },
+  {
+    "id": "118",
+    "english": "transportation",
+    "persian": "حمل و نقل",
+    "learned": false,
+    "description": "The city’s public transport is old and inefficient. — سیستم حمل و نقل عمومی شهر قدیمی و ناکارآمد است."
+  },
+  {
+    "id": "119",
+    "english": "assemble",
+    "persian": "۱. گرد هم آوردن ۲. مونتاژ کردن",
+    "learned": false,
+    "description": "You have to assemble the desk yourself. — شما باید میز را خودتان مونتاژ کنید."
+  },
+  {
+    "id": "120",
+    "english": "arbitrary",
+    "persian": "دلبخواهی",
+    "learned": false,
+    "description": "He hired and fired employees arbitrarily. — او کارمندانش را دلبخواهی استخدام و اخراج می‌کند."
+  },
+  {
+    "id": "121",
+    "english": "primary",
+    "persian": "۱. اولیه ۲. اصلی",
+    "learned": false,
+    "description": "The primary stages of civilization. — مراحل اولیه تمدن."
+  },
+  {
+    "id": "122",
+    "english": "exhausted",
+    "persian": "خسته",
+    "learned": false,
+    "description": "Now I’m exhausted. — الان من خسته‌ام."
+  },
+  {
+    "id": "123",
+    "english": "prejudice",
+    "persian": "تعصب",
+    "learned": false,
+    "description": "Racial prejudice. — تعصب نژادی."
+  },
+  {
+    "id": "124",
+    "english": "priority",
+    "persian": "اولویت",
+    "learned": false,
+    "description": "Education is the government’s main priority. — آموزش اولویت اصلی دولت است."
+  },
+  {
+    "id": "125",
+    "english": "affective",
+    "persian": "عاطفی",
+    "learned": false,
+    "description": "Affective factors play important roles in learning. — عوامل عاطفی نقش مهمی در یادگیری دارند."
+  },
+  {
+    "id": "126",
+    "english": "legislation",
+    "persian": "قانون",
+    "learned": false,
+    "description": "The new legislation intends to fight addiction. — قانون جدید قصد دارد علیه اعتیاد بجنگد."
+  },
+  {
+    "id": "127",
+    "english": "particularly",
+    "persian": "۱. به ویژه ۲. خیلی",
+    "learned": false,
+    "description": "We are hoping to expand our business, particularly in Europe. — ما امیدواریم کسب و کارمان را گسترش دهیم، به ویژه در اروپا."
+  },
+  {
+    "id": "128",
+    "english": "sequentially",
+    "persian": "پی‌درپی، پشت سر هم",
+    "learned": false,
+    "description": "The pages were numbered sequentially. — صفحات پشت سر هم شماره‌بندی شدند."
+  },
+  {
+    "id": "129",
+    "english": "adverse",
+    "persian": "مخالف، نامطلوب",
+    "learned": false,
+    "description": "The adverse vote. — رای مخالف."
+  },
+  {
+    "id": "130",
+    "english": "modify",
+    "persian": "اصلاح کردن، تغییر دادن",
+    "learned": false,
+    "description": "We had to slightly modify the original design. — ما مجبور شدیم کمی طرح اصلی را تغییر دهیم."
+  },
+  {
+    "id": "131",
+    "english": "decline",
+    "persian": "کاهش یافتن، کاهش",
+    "learned": false,
+    "description": "His health condition is declining. — سلامتی او رو به انحطاط است."
+  },
+  {
+    "id": "132",
+    "english": "decay",
+    "persian": "پوسیده شدن، پوسیدگی",
+    "learned": false,
+    "description": "His teeth have decayed. — دندان‌های او پوسیده شده‌اند."
+  },
+  {
+    "id": "133",
+    "english": "massive",
+    "persian": "عظیم، بزرگ",
+    "learned": false,
+    "description": "The castle’s massive walls. — دیوارهای عظیم قلعه."
+  },
+  {
+    "id": "134",
+    "english": "retain",
+    "persian": "نگهداری کردن، حفظ کردن",
+    "learned": false,
+    "description": "You should retain a copy of the document for your records. — شما باید یک کپی از مدارک را نزد خود نگه دارید."
+  },
+  {
+    "id": "135",
+    "english": "tendency",
+    "persian": "گرایش، تمایل",
+    "learned": false,
+    "description": "His tendency to fashion. — گرایش او به مد."
+  },
+  {
+    "id": "136",
+    "english": "regardless",
+    "persian": "صرف نظر از",
+    "learned": false,
+    "description": "The law requires equal treatment for all, regardless of race or religion. — قانون همه را ملزم می‌کند که یکسان رفتار کنند، صرف نظر از نژاد یا مذهب."
+  },
+  {
+    "id": "137",
+    "english": "sustain",
+    "persian": "حفظ کردن، نگه داشتن",
+    "learned": false,
+    "description": "She found it difficult to sustain the children’s interest. — او حفظ علاقه بچه‌ها به ریاضی را مشکل یافت."
+  },
+  {
+    "id": "138",
+    "english": "elicit",
+    "persian": "استخراج کردن، بیرون کشیدن",
+    "learned": false,
+    "description": "The test uses pictures to elicit words from the child. — این تست از تصاویر برای بیرون کشیدن لغات از کودک استفاده می‌کند."
+  },
+  {
+    "id": "139",
+    "english": "constitute",
+    "persian": "ساختن، تاسیس کردن",
+    "learned": false,
+    "description": "The hospital was constituted in 1994. — بیمارستان در سال ۱۹۹۴ تاسیس شد."
+  },
+  {
+    "id": "140",
+    "english": "denote",
+    "persian": "نشان دادن",
+    "learned": false,
+    "description": "Dark clouds denote rain. — ابرهای سیاه باران را نشان می‌دهند."
+  },
+  {
+    "id": "141",
+    "english": "obscure",
+    "persian": "مبهم",
+    "learned": false,
+    "description": "Obscure writing. — نوشته مبهم."
+  },
+  {
+    "id": "142",
+    "english": "deter",
+    "persian": "برحذر داشتن، ترساندن",
+    "learned": false,
+    "description": "The security camera was installed to deter people from stealing. — دوربین‌های امنیتی برای برحذر داشتن مردم از دزدی نصب شدند."
+  },
+  {
+    "id": "143",
+    "english": "collapse",
+    "persian": "فرو ریختن، سقوط کردن",
+    "learned": false,
+    "description": "The bridge collapsed because of wind and faulty design. — پل به دلیل باد و طراحی معیوب فرو ریخت."
+  },
+  {
+    "id": "144",
+    "english": "unprecedented",
+    "persian": "بی‌سابقه",
+    "learned": false,
+    "description": "Crime has increased on an unprecedented scale. — جرم و جنایت در مقیاس بی‌سابقه‌ای افزایش یافته است."
+  },
+  {
+    "id": "145",
+    "english": "deceive",
+    "persian": "فریب دادن، گول زدن",
+    "learned": false,
+    "description": "She thought she could deceive her boss by telling him she was ill. — او فکر کرد می‌تواند رئیسش را با گفتن اینکه مریض است گول بزند."
+  },
+  {
+    "id": "146",
+    "english": "perpetually",
+    "persian": "به طور ابدی",
+    "learned": false,
+    "description": "We belong to each other perpetually. — ما به طور ابدی متعلق به یکدیگریم."
+  },
+  {
+    "id": "147",
+    "english": "cease",
+    "persian": "متوقف شدن یا کردن",
+    "learned": false,
+    "description": "The rain ceased and the sky cleared. — باران بند آمد و آسمان صاف شد."
+  },
+  {
+    "id": "148",
+    "english": "suspicion",
+    "persian": "شک، ظن",
+    "learned": false,
+    "description": "I have a suspicion that she is not telling the truth. — من شک دارم که او حقیقت را نمی‌گوید."
+  },
+  {
+    "id": "149",
+    "english": "barely",
+    "persian": "به سختی، فقط",
+    "learned": false,
+    "description": "I can barely hear you. — به سختی صدای شما را می‌شنوم."
+  },
+  {
+    "id": "150",
+    "english": "abroad",
+    "persian": "خارج",
+    "learned": false,
+    "description": "We went abroad for vacation. — ما برای تعطیلات به خارج رفتیم."
+  },
+  {
+    "id": "151",
+    "english": "controversy",
+    "persian": "بحث و جدل / مناقشه",
+    "learned": false,
+    "description": "Her latest book caused a lot of controversy. — جدیدترین کتاب او جنجال زیادی به پا کرد."
+  },
+  {
+    "id": "152",
+    "english": "occasionally",
+    "persian": "هر از گاهی",
+    "learned": false,
+    "description": "I visit him occasionally. — من هر از گاهی او را ملاقات می‌کنم."
+  },
+  {
+    "id": "153",
+    "english": "symptom",
+    "persian": "علایم بیماری",
+    "learned": false,
+    "description": "Fever is a symptom of many types of infection. — تب یک نشانه عفونت است."
+  },
+  {
+    "id": "154",
+    "english": "concept",
+    "persian": "مفهوم",
+    "learned": false,
+    "description": "They are unfamiliar with the concept of freedom. — آن‌ها با مفهوم آزادی آشنا نیستند."
+  },
+  {
+    "id": "155",
+    "english": "phenomenon",
+    "persian": "پدیده",
+    "learned": false,
+    "description": "Hurricanes are severe weather phenomena. — گردبادها پدیده‌های شدید آب و هوایی هستند."
+  },
+  {
+    "id": "156",
+    "english": "rivalry",
+    "persian": "رقابت",
+    "learned": false,
+    "description": "There is a fierce rivalry for the job. — یک رقابت شدید برای شغل وجود دارد."
+  },
+  {
+    "id": "157",
+    "english": "unquestionable",
+    "persian": "انکارناپذیر",
+    "learned": false,
+    "description": "Her competence as a teacher is unquestionable. — لیاقت او به عنوان معلم انکارناپذیر است."
+  },
+  {
+    "id": "158",
+    "english": "grant",
+    "persian": "۱. دادن ۲. بورسیه تحصیلی",
+    "learned": false,
+    "description": "Anyone wishing to apply for a grant should write to the principal. — هر کسی که مایل است برای بورسیه تحصیلی اقدام کند، باید به رئیس دانشگاه نامه بنویسد."
+  },
+  {
+    "id": "159",
+    "english": "overwhelm",
+    "persian": "غلبه کردن / تحت فشار قرار گرفتن",
+    "learned": false,
+    "description": "We were overwhelmed by the amount of work. — ما تحت فشار کار بودیم."
+  },
+  {
+    "id": "160",
+    "english": "measure",
+    "persian": "اندازه گرفتن",
+    "learned": false,
+    "description": "To measure the length of the table. — طول میز را اندازه گرفتن."
+  },
+  {
+    "id": "161",
+    "english": "omit",
+    "persian": "حذف کردن",
+    "learned": false,
+    "description": "Please omit my name from the list of volunteers. — لطفاً اسم مرا از لیست داوطلبین حذف کنید."
+  },
+  {
+    "id": "162",
+    "english": "obsolete",
+    "persian": "منسوخ",
+    "learned": false,
+    "description": "With technological changes, many traditional skills have become obsolete. — با تغییرات تکنولوژی، بسیاری از مهارت‌های سنتی منسوخ شده‌اند."
+  },
+  {
+    "id": "163",
+    "english": "miserable",
+    "persian": "بدبخت / نامطلوب",
+    "learned": false,
+    "description": "Flood brought misery to the farmers. — سیل برای کشاورزان این ناحیه بدبختی به بار آورد."
+  },
+  {
+    "id": "164",
+    "english": "disappointment",
+    "persian": "ناامیدی",
+    "learned": false,
+    "description": "Jim’s failure at the college entrance exam disappointed him. — شکست جیم در امتحان ورودی دانشگاه او را ناامید کرد."
+  },
+  {
+    "id": "165",
+    "english": "appointment",
+    "persian": "۱. انتصاب ۲. قرار ملاقات",
+    "learned": false,
+    "description": "I had an appointment with my dentist this morning. — من امروز وقت ملاقات با دندانپزشک دارم."
+  },
+  {
+    "id": "166",
+    "english": "precede",
+    "persian": "مقدم بودن",
+    "learned": false,
+    "description": "January precedes February. — ژانویه قبل از فوریه است."
+  },
+  {
+    "id": "167",
+    "english": "ignite",
+    "persian": "برانگیختن",
+    "learned": false,
+    "description": "A careless remark ignited the conflict. — یک گفته نسنجیده، بحث و جدال را برانگیخت."
+  },
+  {
+    "id": "168",
+    "english": "communicate",
+    "persian": "ارتباط برقرار کردن",
+    "learned": false,
+    "description": "Parents sometimes find it difficult to communicate with their teenage children. — والدین گاهی ارتباط برقرار کردن با نوجوانانشان را مشکل می‌یابند."
+  },
+  {
+    "id": "169",
+    "english": "ultimately",
+    "persian": "سرانجام",
+    "learned": false,
+    "description": "She achieved her goal of becoming a professor ultimately. — او در نهایت به هدف استاد شدن رسید."
+  },
+  {
+    "id": "170",
+    "english": "superior",
+    "persian": "برتر",
+    "learned": false,
+    "description": "Liverpool was clearly the superior team. — لیورپول آشکارا تیم برتر بود."
+  },
+  {
+    "id": "171",
+    "english": "convey",
+    "persian": "انتقال دادن",
+    "learned": false,
+    "description": "The picture of a crying child conveys a feeling of sadness. — عکس بچه‌ی گریان، احساس غم را انتقال می‌دهد."
+  },
+  {
+    "id": "172",
+    "english": "utilize",
+    "persian": "استفاده کردن / به کار بردن",
+    "learned": false,
+    "description": "No one seems to utilize this vacant house. — هیچ کس به نظر نمی‌رسد که از این خانه خالی استفاده کند."
+  },
+  {
+    "id": "173",
+    "english": "object",
+    "persian": "۱. مخالفت کردن ۲. شی",
+    "learned": false,
+    "description": "My professor objected to my proposal. — استادم با پروپوزالم مخالفت کرد."
+  },
+  {
+    "id": "174",
+    "english": "expose",
+    "persian": "در معرض چیزی قرار دادن",
+    "learned": false,
+    "description": "Exposure to the sun can cause skin cancer. — قرارگیری در معرض نور خورشید باعث سرطان پوست می‌شود."
+  },
+  {
+    "id": "175",
+    "english": "event",
+    "persian": "رویداد",
+    "learned": false,
+    "description": "Historical events are recorded in books. — رویدادهای تاریخی در کتاب‌ها ثبت می‌شوند."
+  },
+  {
+    "id": "176",
+    "english": "adapt",
+    "persian": "سازگار کردن / وفق دادن",
+    "learned": false,
+    "description": "He knew how to adapt himself to his new conditions. — او می‌دانست که چطور خودش را با شرایط وفق دهد."
+  },
+  {
+    "id": "177",
+    "english": "disregard",
+    "persian": "بی‌توجهی کردن / بی‌اعتنایی",
+    "learned": false,
+    "description": "Please disregard what he says, he is drunk. — لطفاً به چیزی که او می‌گوید بی‌توجهی کن، او مست است."
+  },
+  {
+    "id": "178",
+    "english": "appraise",
+    "persian": "ارزیابی کردن",
+    "learned": false,
+    "description": "An employer should appraise the ability of his employees. — یک کارفرما باید توانایی کارکنانش را ارزیابی کند."
+  },
+  {
+    "id": "179",
+    "english": "admission",
+    "persian": "۱. پذیرش ۲. اعتراف",
+    "learned": false,
+    "description": "His admission of guilt surprised everyone. — اعتراف او به گناه همه را شگفت‌زده کرد."
+  },
+  {
+    "id": "180",
+    "english": "principal",
+    "persian": "۱. مدیر ۲. اصلی",
+    "learned": false,
+    "description": "Our principal problem is lack of time. — مشکل عمده ما کمبود وقت است."
+  },
+  {
+    "id": "181",
+    "english": "criterion",
+    "persian": "معیار",
+    "learned": false,
+    "description": "Students must satisfy the criteria to qualify for a scholarship. — دانشجویان برای واجد شرایط شدن برای بورسیه باید معیارها را برآورده کنند."
+  },
+  {
+    "id": "182",
+    "english": "average",
+    "persian": "۱. میانگین ۲. متوسط",
+    "learned": false,
+    "description": "Her intelligence is above average. — هوش او بالای حد متوسط است."
+  },
+  {
+    "id": "183",
+    "english": "normal",
+    "persian": "نرمال / طبیعی",
+    "learned": false,
+    "description": "We hope to return to normality as soon as possible. — ما امیدواریم هر چه زودتر به حالت طبیعی برگردیم."
+  },
+  {
+    "id": "184",
+    "english": "requirement",
+    "persian": "نیاز / الزام",
+    "learned": false,
+    "description": "Babies require a great deal of attention. — کودکان به توجه زیادی نیاز دارند."
+  },
+  {
+    "id": "185",
+    "english": "constraint",
+    "persian": "محدودیت",
+    "learned": false,
+    "description": "He would be happier without the constraints of a regular job. — او فکر می‌کرد بدون محدودیت‌های شغل منظم خوشحال‌تر خواهد بود."
+  },
+  {
+    "id": "186",
+    "english": "enrich",
+    "persian": "غنی کردن / ارتقا دادن",
+    "learned": false,
+    "description": "By reading we enrich the mind. — با خواندن، ذهنمان را ارتقا می‌بخشیم."
+  },
+  {
+    "id": "187",
+    "english": "multiply",
+    "persian": "ضرب کردن",
+    "learned": false,
+    "description": "If you multiply seven by two, you get 14. — اگر هفت را در دو ضرب کنید، ۱۴ می‌شود."
+  },
+  {
+    "id": "188",
+    "english": "resolve",
+    "persian": "حل کردن",
+    "learned": false,
+    "description": "Let’s try to resolve this problem here. — بیا سعی کنیم این مشکل را اینجا حل کنیم."
+  },
+  {
+    "id": "189",
+    "english": "definition",
+    "persian": "تعریف / معنی",
+    "learned": false,
+    "description": "What’s your definition of success? — تعریف شما از موفقیت چیست؟"
+  },
+  {
+    "id": "190",
+    "english": "interchange",
+    "persian": "مبادله کردن / تبادل کردن",
+    "learned": false,
+    "description": "We interchanged information. — ما اطلاعات را تبادل کردیم."
+  },
+  {
+    "id": "191",
+    "english": "generalize",
+    "persian": "عمومی کردن / تعمیم دادن",
+    "learned": false,
+    "description": "We hope to generalize our research findings to all people. — ما امیدواریم یافته‌های تحقیقاتی‌مان را برای همه مردم تعمیم دهیم."
+  },
+  {
+    "id": "192",
+    "english": "appeal",
+    "persian": "۱. درخواست دادن ۲. جذابیت",
+    "learned": false,
+    "description": "The mayor appealed to the people for support. — شهردار از مردم درخواست کرد که حمایت کنند."
+  },
+  {
+    "id": "193",
+    "english": "available",
+    "persian": "موجود / قابل دسترس",
+    "learned": false,
+    "description": "That style of shoe is no longer available. — این کفش دیگر موجود نیست."
+  },
+  {
+    "id": "194",
+    "english": "partially",
+    "persian": "تا حدودی / یک طرفه",
+    "learned": false,
+    "description": "The operation was partially successful. — عملیات تا حدودی موفقیت‌آمیز بود."
+  },
+  {
+    "id": "195",
+    "english": "extinguish",
+    "persian": "خاموش کردن",
+    "learned": false,
+    "description": "It took about 50 minutes to extinguish the fire. — خاموش کردن آتش ۵۰ دقیقه طول کشید."
+  },
+  {
+    "id": "196",
+    "english": "excite",
+    "persian": "برانگیختن / به هیجان آوردن",
+    "learned": false,
+    "description": "Seeing the many presents excited all the children. — دیدن هدایای زیاد بچه‌ها را هیجان‌زده کرد."
+  },
+  {
+    "id": "197",
+    "english": "irregular",
+    "persian": "بی‌قاعده / بی نظم",
+    "learned": false,
+    "description": "Judge cannot permit irregularity in carrying out justice. — قاضی اجازه بی‌نظمی در اجرای عدالت را ندارد."
+  },
+  {
+    "id": "198",
+    "english": "cheerful",
+    "persian": "شاد / خوشحال",
+    "learned": false,
+    "description": "The students sang a song cheerfully. — دانش‌آموزان با خوشحالی آواز می‌خواندند."
+  },
+  {
+    "id": "199",
+    "english": "impractical",
+    "persian": "غیرعملی",
+    "learned": false,
+    "description": "Their proposal was rejected due to impracticality. — پروپوزال آن‌ها به دلیل غیرعملی بودن رد شد."
+  },
+  {
+    "id": "200",
+    "english": "treatment",
+    "persian": "۱. درمان ۲. رفتار",
+    "learned": false,
+    "description": "We must treat the animals with humanity. — ما باید با حیوانات با انسانیت رفتار کنیم."
+  },
+  {
+    "id": "201",
+    "english": "subordinate",
+    "persian": "تابع / زیر دست",
+    "learned": false,
+    "description": "He was always friendly with his subordinates. — او همیشه با زیردستانش صمیمی بود."
+  },
+  {
+    "id": "202",
+    "english": "certify",
+    "persian": "تایید کردن، تصدیق کردن",
+    "learned": false,
+    "description": "Two witnesses must certify that this is your signature. — دو شاهد باید تایید کنند که این امضای شماست."
+  },
+  {
+    "id": "203",
+    "english": "endanger",
+    "persian": "به خطر انداختن / در معرض خطر",
+    "learned": false,
+    "description": "Endangered animal species. — گونه‌های جانوری در معرض خطر انقراض."
+  },
+  {
+    "id": "204",
+    "english": "discard",
+    "persian": "دور انداختن",
+    "learned": false,
+    "description": "Let’s discard some of these old newspapers. — بیا تعدادی از این روزنامه‌های قدیمی را دور بیندازیم."
+  },
+  {
+    "id": "205",
+    "english": "condense",
+    "persian": "خلاصه کردن",
+    "learned": false,
+    "description": "He condensed his reports from ten pages to five. — او گزارش‌هایش را از ده صفحه به پنج صفحه خلاصه کرد."
+  },
+  {
+    "id": "206",
+    "english": "shrink",
+    "persian": "آب رفتن، کوتاه شدن",
+    "learned": false,
+    "description": "If you wash these trousers they will shrink. — اگر این شلوار را بشویی آب خواهد رفت."
+  },
+  {
+    "id": "207",
+    "english": "maximize",
+    "persian": "به حداکثر رساندن",
+    "learned": false,
+    "description": "The new machines helped the company maximize its production. — ماشین‌آلات جدید به شرکت کمک کردند تا تولیدش را به حداکثر برساند."
+  },
+  {
+    "id": "208",
+    "english": "insert",
+    "persian": "داخل کردن",
+    "learned": false,
+    "description": "Insert the key into the lock. — کلید را داخل قفل وارد کن."
+  },
+  {
+    "id": "209",
+    "english": "reinforce",
+    "persian": "تقویت کردن / تقویت",
+    "learned": false,
+    "description": "More than 17 bridges in this area need reinforcement. — بیش از ۱۷ پل در این منطقه نیاز به تقویت دارند."
+  },
+  {
+    "id": "210",
+    "english": "transition",
+    "persian": "گذر، انتقال",
+    "learned": false,
+    "description": "The transition from school to work can be difficult. — گذر از مدرسه به کار می‌تواند دشوار باشد."
+  },
+  {
+    "id": "211",
+    "english": "supplement",
+    "persian": "مکمل / ضمیمه، تکمیل کردن",
+    "learned": false,
+    "description": "The doctor prescribed some vitamin supplement for me. — دکتر تعدادی مکمل ویتامین برای من تجویز کرد."
+  },
+  {
+    "id": "212",
+    "english": "attach",
+    "persian": "ضمیمه کردن، چسباندن",
+    "learned": false,
+    "description": "Attach your recent photo to your application form. — یک عکس جدیدتان را به فرم تقاضا ضمیمه کنید."
+  },
+  {
+    "id": "213",
+    "english": "broad",
+    "persian": "وسیع",
+    "learned": false,
+    "description": "Students study a broad range of subjects. — دانشجویان دامنه وسیعی از موضوعات را مطالعه می‌کنند."
+  },
+  {
+    "id": "214",
+    "english": "logical",
+    "persian": "منطقی",
+    "learned": false,
+    "description": "Her arguments were logical and it was hard to fault them. — استدلال‌های او منطقی بودند و سخت بود ایرادی گرفت."
+  },
+  {
+    "id": "215",
+    "english": "empirical",
+    "persian": "تجربی",
+    "learned": false,
+    "description": "Claims for the effectiveness of the drug are based on empirical evidence. — ادعاها برای اثربخشی دارو براساس شواهد تجربی است."
+  },
+  {
+    "id": "216",
+    "english": "assign",
+    "persian": "محول کردن",
+    "learned": false,
+    "description": "When teachers assign homework, students usually feel obliged to do it. — وقتی معلمان تکلیف محول می‌کنند، دانش‌آموزان معمولاً احساس وظیفه می‌کنند."
+  },
+  {
+    "id": "217",
+    "english": "instruct",
+    "persian": "تعلیم دادن",
+    "learned": false,
+    "description": "The supervisor instructed us on the operation of the new machine. — سرپرست به ما کار با ماشین جدید را آموزش داد."
+  },
+  {
+    "id": "218",
+    "english": "impede",
+    "persian": "مانع شدن، از پیشرفت جلوگیری کردن",
+    "learned": false,
+    "description": "Storms at the sea impeded their journey. — طوفان‌های دریا سفرشان را کند کرد."
+  },
+  {
+    "id": "219",
+    "english": "briefly",
+    "persian": "به طور مختصر",
+    "learned": false,
+    "description": "He responded briefly to the questions. — او به طور مختصر به سوالات پاسخ داد."
+  },
+  {
+    "id": "220",
+    "english": "subjective",
+    "persian": "سلیقه‌ای، شخصی",
+    "learned": false,
+    "description": "What languages are good to learn? This is subjective. — چه زبان‌هایی خوب هستند؟ این موضوع سلیقه‌ای است."
+  },
+  {
+    "id": "221",
+    "english": "vary",
+    "persian": "تغییر دادن، تغییر یافتن",
+    "learned": false,
+    "description": "My doctor said I should vary my diet. — دکترم گفت که باید رژیم غذایی‌ام را تغییر دهم."
+  },
+  {
+    "id": "222",
+    "english": "superficial",
+    "persian": "سطحی",
+    "learned": false,
+    "description": "The cut was only superficial and didn’t require a bandage. — بریدگی سطحی بود و بانداژ نیاز نداشت."
+  },
+  {
+    "id": "223",
+    "english": "perception",
+    "persian": "فهم و درک",
+    "learned": false,
+    "description": "Children’s perception of the world. — فهم بچه‌ها از دنیا."
+  },
+  {
+    "id": "224",
+    "english": "imagine",
+    "persian": "تصور کردن",
+    "learned": false,
+    "description": "Imagine that you are now on the top of clouds. — تصور کن الان روی ابرها هستی."
+  },
+  {
+    "id": "225",
+    "english": "interpret",
+    "persian": "۱. تفسیر کردن ۲. ترجمه شفاهی کردن",
+    "learned": false,
+    "description": "They spoke good Spanish and promised to interpret for me. — آنها اسپانیایی خوب صحبت می‌کردند و قول دادند برای من ترجمه کنند."
+  },
+  {
+    "id": "226",
+    "english": "magnificently",
+    "persian": "به طور با شکوه",
+    "learned": false,
+    "description": "The castle is situated magnificently on a cliff. — این قلعه به طور با شکوه روی صخره قرار گرفته است."
+  },
+  {
+    "id": "227",
+    "english": "thoroughly",
+    "persian": "با دقت، کاملاً",
+    "learned": false,
+    "description": "Police searched the house thoroughly. — پلیس خانه را با دقت جستجو کرد."
+  },
+  {
+    "id": "228",
+    "english": "explicitly",
+    "persian": "به طور صریح",
+    "learned": false,
+    "description": "I gave him explicit instructions. — من به او دستورالعمل‌های صریح دادم."
+  },
+  {
+    "id": "229",
+    "english": "potential",
+    "persian": "۱. استعداد ۲. بالقوه",
+    "learned": false,
+    "description": "The coach could see his great potential as a footballer. — مربی می‌توانست استعداد بالای او به عنوان فوتبالیست را ببیند."
+  },
+  {
+    "id": "230",
+    "english": "compensate",
+    "persian": "جبران کردن",
+    "learned": false,
+    "description": "No amount of money could compensate for the loss of her son. — هیچ مقدار پولی از شرکت نمی‌تواند فقدان پسرش را جبران کند."
+  },
+  {
+    "id": "231",
+    "english": "legitimately",
+    "persian": "به طور قانونی، مشروع",
+    "learned": false,
+    "description": "He complained legitimately about his actions. — او به طور قانونی از کارهایش شکایت کرد."
+  },
+  {
+    "id": "232",
+    "english": "penetration",
+    "persian": "نفوذ",
+    "learned": false,
+    "description": "Cover the entire device to prevent water penetration. — کل وسیله را بپوشان تا از نفوذ آب جلوگیری شود."
+  },
+  {
+    "id": "233",
+    "english": "frustration",
+    "persian": "استیصال، درماندگی",
+    "learned": false,
+    "description": "The fact that he is working with amateurs really frustrates him. — واقعیت اینکه با تازه‌کارها کار می‌کند، واقعاً او را درمانده می‌کند."
+  },
+  {
+    "id": "234",
+    "english": "orientate",
+    "persian": "سوق دادن، جهت دادن",
+    "learned": false,
+    "description": "Try to orientate your students towards the science subjects. — سعی کن دانش‌آموزان را به سوی موضوعات علمی سوق دهی."
+  },
+  {
+    "id": "235",
+    "english": "illuminate",
+    "persian": "منور کردن، چراغانی کردن",
+    "learned": false,
+    "description": "Lights illuminated the stage. — چراغ‌ها صحنه را منور کردند."
+  },
+  {
+    "id": "236",
+    "english": "magnify",
+    "persian": "بزرگ کردن، بزرگنمایی کردن",
+    "learned": false,
+    "description": "A telescope magnifies the light of the stars. — تلسکوپ نور ستارگان را بزرگ می‌کند."
+  },
+  {
+    "id": "237",
+    "english": "abundant",
+    "persian": "فراوان",
+    "learned": false,
+    "description": "Rainfall is abundant in the region. — بارش باران در این منطقه فراوان است."
+  },
+  {
+    "id": "238",
+    "english": "punctuality",
+    "persian": "خوش‌قولی، سروقتی",
+    "learned": false,
+    "description": "A punctual person comes on time. — یک فرد خوش‌قول سر وقت می‌آید."
+  },
+  {
+    "id": "239",
+    "english": "impose",
+    "persian": "اعمال کردن",
+    "learned": false,
+    "description": "The government imposed taxes on the sale of alcohol. — دولت مالیات بر فروش الکل اعمال کرد."
+  },
+  {
+    "id": "240",
+    "english": "punish",
+    "persian": "تنبیه کردن، ادب کردن",
+    "learned": false,
+    "description": "They used to discipline the students with a whip. — آن‌ها قبلاً دانش‌آموزان را با شلاق ادب می‌کردند."
+  },
+  {
+    "id": "241",
+    "english": "struggle",
+    "persian": "تلاش کردن، تقلا کردن",
+    "learned": false,
+    "description": "He struggled with his math all night. — او کل شب را با ریاضیات کلنجار رفت."
+  },
+  {
+    "id": "242",
+    "english": "trivial",
+    "persian": "جزیی",
+    "learned": false,
+    "description": "There had been a few trivial complaints. — "
+  },
+  {
+    "id": "243",
+    "english": "absolutely",
+    "persian": "کاملا",
+    "learned": false,
+    "description": "Her guess was absolutely right. — حدسش کاملاً درست بود."
+  },
+  {
+    "id": "244",
+    "english": "fluctuate",
+    "persian": "نوسان کردن",
+    "learned": false,
+    "description": "The price of gold continually fluctuates. — قیمت طلا مدام نوسان می‌کند."
+  },
+  {
+    "id": "245",
+    "english": "stable",
+    "persian": "ثابت",
+    "learned": false,
+    "description": "Stable prices are good for the economy. — قیمت‌های ثابت برای اقتصاد خوب است."
+  },
+  {
+    "id": "246",
+    "english": "tentative",
+    "persian": "مردد، دو دل",
+    "learned": false,
+    "description": "She was a bit tentative about accepting their offer. — او کمی درباره قبول کردن پیشنهادشان مردد بود."
+  },
+  {
+    "id": "247",
+    "english": "emergent",
+    "persian": "پدیدار، فوری",
+    "learned": false,
+    "description": "We have flexibility to adjust rates to meet emergent needs. — ما باید انعطاف‌پذیری داشته باشیم و نرخ‌هایمان را با نیازهای فوری تطبیق دهیم."
+  },
+  {
+    "id": "248",
+    "english": "schedule",
+    "persian": "برنامه",
+    "learned": false,
+    "description": "My daily schedule is very busy. — برنامه روزانه من خیلی شلوغ است."
+  },
+  {
+    "id": "249",
+    "english": "description",
+    "persian": "توصیف",
+    "learned": false,
+    "description": "I can’t describe her beauty. — من نمی‌توانم زیبایی او را توصیف کنم."
+  },
+  {
+    "id": "250",
+    "english": "asymmetry",
+    "persian": "عدم تقارن",
+    "learned": false,
+    "description": "The result shows asymmetry of the mechanism. — نتیجه نشان‌دهنده عدم تقارن در مکانیزم است."
+  },
+  {
+    "id": "251",
+    "english": "ignore",
+    "persian": "بی‌اعتنایی کردن، نادیده گرفتن",
+    "learned": false,
+    "description": "Ignore those who try to discourage you. — به کسانی که سعی می‌کنند تو را دلسرد کنند، اعتنا نکن."
+  },
+  {
+    "id": "252",
+    "english": "comment",
+    "persian": "اظهار نظر کردن / اظهار نظر",
+    "learned": false,
+    "description": "The professor gave me some helpful comments on my essay. — استاد، چند اظهار نظر مفید درباره مقاله من داد."
+  },
+  {
+    "id": "253",
+    "english": "urgent",
+    "persian": "فوری",
+    "learned": false,
+    "description": "There is an urgent need for medical supplies. — نیاز فوری به تجهیزات پزشکی وجود دارد."
+  },
+  {
+    "id": "254",
+    "english": "predict",
+    "persian": "پیش‌بینی کردن",
+    "learned": false,
+    "description": "Can anyone really predict the future? — آیا کسی واقعاً می‌تواند آینده را پیش‌بینی کند؟"
+  },
+  {
+    "id": "255",
+    "english": "affect",
+    "persian": "تاثیر گذاشتن",
+    "learned": false,
+    "description": "What you eat affects your weight and your health. — آنچه می‌خورید روی وزن و سلامتتان اثر می‌گذارد."
+  },
+  {
+    "id": "256",
+    "english": "drastic",
+    "persian": "شدید، سخت",
+    "learned": false,
+    "description": "NATO threatened drastic actions if its terms were not met. — ناتو تهدید به اقدامات شدید کرد اگر شرایطش برآورده نشود."
+  },
+  {
+    "id": "257",
+    "english": "convention",
+    "persian": "رسم، عرف، سنت",
+    "learned": false,
+    "description": "Playing together teaches children social conventions. — با هم بازی کردن، به بچه‌ها رسوم اجتماعی مثل شراکت را می‌آموزد."
+  },
+  {
+    "id": "258",
+    "english": "expertise",
+    "persian": "تخصص، مهارت",
+    "learned": false,
+    "description": "Electrical work requires a great deal of expertise. — کار برق نیاز به تخصص زیادی دارد."
+  },
+  {
+    "id": "259",
+    "english": "rapid",
+    "persian": "سریع",
+    "learned": false,
+    "description": "I am learning French at a rapid pace. — من با سرعت زیاد در حال یادگیری زبان فرانسه هستم."
+  },
+  {
+    "id": "260",
+    "english": "contribute",
+    "persian": "کمک کردن، مشارکت داشتن",
+    "learned": false,
+    "description": "This school is preparing students to make a contribution to society. — این مدرسه در حال آماده کردن دانش‌آموزان برای کمک به جامعه است."
+  },
+  {
+    "id": "261",
+    "english": "realize",
+    "persian": "فهمیدن، تشخیص دادن",
+    "learned": false,
+    "description": "He realized his mistake later. — او بعداً اشتباهش را فهمید."
+  },
+  {
+    "id": "262",
+    "english": "frequent",
+    "persian": "مکرر",
+    "learned": false,
+    "description": "Frequent headaches. — سردردهای مکرر."
+  },
+  {
+    "id": "263",
+    "english": "advance",
+    "persian": "پیشرفت کردن",
+    "learned": false,
+    "description": "Our understanding of human genetics has advanced. — فهم ما از ژنتیک انسان پیشرفت کرده است."
+  },
+  {
+    "id": "264",
+    "english": "deficiency",
+    "persian": "نقص، کمبود",
+    "learned": false,
+    "description": "Iron deficiency. — کمبود آهن."
+  },
+  {
+    "id": "265",
+    "english": "occupy",
+    "persian": "اشغال کردن",
+    "learned": false,
+    "description": "These large chairs occupy too much space in this room. — این صندلی‌های بزرگ فضای زیادی در این اتاق اشغال می‌کنند."
+  },
+  {
+    "id": "266",
+    "english": "expand",
+    "persian": "گسترش دادن، منبسط شدن",
+    "learned": false,
+    "description": "Metals expand when they are heated. — فلزات وقتی گرم می‌شوند منبسط می‌شوند."
+  },
+  {
+    "id": "267",
+    "english": "understate",
+    "persian": "دست کم گرفتن",
+    "learned": false,
+    "description": "Do not understate your abilities. — توانایی‌های خود را دست کم نگیر."
+  },
+  {
+    "id": "268",
+    "english": "block",
+    "persian": "مسدود کردن / سد، مانع",
+    "learned": false,
+    "description": "A fallen tree blocked the road. — یک درخت افتاده جاده را مسدود کرد."
+  },
+  {
+    "id": "269",
+    "english": "establish",
+    "persian": "تاسیس کردن",
+    "learned": false,
+    "description": "They established the business in 1999. — آنها کسب و کار را در سال ۱۹۹۹ تاسیس کردند."
+  },
+  {
+    "id": "270",
+    "english": "mention",
+    "persian": "گفتن",
+    "learned": false,
+    "description": "I mentioned the idea to Jim. — من ایده را به جیم گفتم."
+  },
+  {
+    "id": "271",
+    "english": "renovate",
+    "persian": "بازسازی کردن",
+    "learned": false,
+    "description": "It will take over a year to renovate the historic hotel. — بیش از یک سال طول خواهد کشید تا این هتل تاریخی بازسازی شود."
+  },
+  {
+    "id": "272",
+    "english": "observe",
+    "persian": "مشاهده کردن",
+    "learned": false,
+    "description": "Observation of a bird’s behavior. — مشاهده رفتار یک پرنده."
+  },
+  {
+    "id": "273",
+    "english": "voluntary",
+    "persian": "داوطلبانه",
+    "learned": false,
+    "description": "Voluntary help. — کمک داوطلبانه."
+  },
+  {
+    "id": "274",
+    "english": "accurately",
+    "persian": "به‌طور دقیق",
+    "learned": false,
+    "description": "The temperature must be measured accurately. — دما باید به‌طور دقیق اندازه‌گیری شود."
+  },
+  {
+    "id": "275",
+    "english": "awkwardly",
+    "persian": "به‌طور خجالت‌آور",
+    "learned": false,
+    "description": "She felt awkward if someone was watching her dance. — او احساس خجالت می‌کرد اگر کسی رقصش را تماشا می‌کرد."
+  },
+  {
+    "id": "276",
+    "english": "acquisition",
+    "persian": "کسب، اکتساب",
+    "learned": false,
+    "description": "The acquisition of learning. — کسب دانش."
+  },
+  {
+    "id": "277",
+    "english": "flourish",
+    "persian": "رونق یافتن، در حال رشد",
+    "learned": false,
+    "description": "Markets are flourishing and prices are stable. — بازارها در حال رونق هستند و قیمت‌ها ثابت‌اند."
+  },
+  {
+    "id": "278",
+    "english": "complain",
+    "persian": "شکایت کردن / شکایت",
+    "learned": false,
+    "description": "He decided to complain to the authorities. — او تصمیم گرفت از مسئولین شکایت کند."
+  },
+  {
+    "id": "279",
+    "english": "limitation",
+    "persian": "محدودیت",
+    "learned": false,
+    "description": "We must limit the expenses to 100 a month. — ما باید مخارج را به ۱۰۰ دلار در ماه محدود کنیم."
+  },
+  {
+    "id": "280",
+    "english": "demonstrate",
+    "persian": "نشان دادن",
+    "learned": false,
+    "description": "Let me demonstrate to you some of the difficulties we are facing. — اجازه دهید برخی از مشکلاتی که با آن مواجهیم را به شما نشان دهم."
+  },
+  {
+    "id": "281",
+    "english": "discriminate",
+    "persian": "تبعیض قائل شدن",
+    "learned": false,
+    "description": "A good teacher shouldn’t discriminate against students. — یک معلم خوب نباید بین دانش‌آموزان تبعیض قائل شود."
+  },
+  {
+    "id": "282",
+    "english": "objective",
+    "persian": "هدف / عینی / بی‌طرف",
+    "learned": false,
+    "description": "Try to be as objective as you can. — تا جای ممکن بی‌طرف باش."
+  },
+  {
+    "id": "283",
+    "english": "identity",
+    "persian": "هویت",
+    "learned": false,
+    "description": "Passports are used as proof of one’s identity. — پاسپورت‌ها برای اثبات هویت استفاده می‌شوند."
+  },
+  {
+    "id": "284",
+    "english": "absorb",
+    "persian": "جذب کردن",
+    "learned": false,
+    "description": "Plants use their roots to absorb nutrients from soil. — گیاهان از ریشه‌هایشان برای جذب مواد غذایی از خاک استفاده می‌کنند."
+  },
+  {
+    "id": "285",
+    "english": "astonish",
+    "persian": "حیرت زده کردن",
+    "learned": false,
+    "description": "The news of her sudden death astonished us. — خبر مرگ ناگهانی او ما را حیرت‌زده کرد."
+  },
+  {
+    "id": "286",
+    "english": "evaporation",
+    "persian": "تبخیر",
+    "learned": false,
+    "description": "Most of the water had evaporated. — اکثر آب تبخیر شده بود."
+  },
+  {
+    "id": "287",
+    "english": "manipulate",
+    "persian": "دستکاری کردن",
+    "learned": false,
+    "description": "They manipulated the election results. — آنها نتایج انتخابات را دستکاری کردند."
+  },
+  {
+    "id": "288",
+    "english": "meagerly",
+    "persian": "به طور جزئی، ناچیز",
+    "learned": false,
+    "description": "With meager funds, the project had to be stopped. — با بودجه ناچیز، پروژه باید متوقف می‌شد."
+  },
+  {
+    "id": "289",
+    "english": "marginal",
+    "persian": "حاشیه‌ای، کم",
+    "learned": false,
+    "description": "Sales last year were marginally higher than this year. — فروش سال گذشته به طور جزئی بالاتر از امسال بود."
+  },
+  {
+    "id": "290",
+    "english": "categorize",
+    "persian": "طبقه‌بندی کردن",
+    "learned": false,
+    "description": "She categorized plants into four groups. — او گیاهان را به چهار گروه طبقه‌بندی کرد."
+  },
+  {
+    "id": "291",
+    "english": "distinguish",
+    "persian": "تمیز دادن، تشخیص دادن",
+    "learned": false,
+    "description": "At what age are children able to distinguish between right and wrong? — در چه سنی بچه‌ها قادر به تشخیص درست از نادرست هستند؟"
+  },
+  {
+    "id": "292",
+    "english": "separate",
+    "persian": "جدا کردن / جدا، منفصل",
+    "learned": false,
+    "description": "Put the receipts in a separate file. — رسیدها را در یک فایل جدا قرار بده."
+  },
+  {
+    "id": "293",
+    "english": "annoy",
+    "persian": "ناراحت کردن، رنجاندن",
+    "learned": false,
+    "description": "He has an annoying habit of smoking. — او عادت آزاردهنده‌ای به سیگار کشیدن دارد."
+  },
+  {
+    "id": "294",
+    "english": "undertake",
+    "persian": "برعهده گرفتن",
+    "learned": false,
+    "description": "I don’t want to undertake such an important responsibility. — من نمی‌خواهم چنین مسئولیت مهمی را برعهده بگیرم."
+  },
+  {
+    "id": "295",
+    "english": "migration",
+    "persian": "مهاجرت، کوچ",
+    "learned": false,
+    "description": "Some birds migrate. — برخی پرندگان مهاجرت می‌کنند."
+  },
+  {
+    "id": "296",
+    "english": "artificial",
+    "persian": "مصنوعی",
+    "learned": false,
+    "description": "Artificial flowers. — گل‌های مصنوعی."
+  },
+  {
+    "id": "297",
+    "english": "pattern",
+    "persian": "الگو",
+    "learned": false,
+    "description": "Both dresses were made of the same pattern. — هر دو لباس از یک الگو ساخته شدند."
+  },
+  {
+    "id": "298",
+    "english": "famine",
+    "persian": "قحطی",
+    "learned": false,
+    "description": "Famine in Africa. — قحطی در آفریقا."
+  },
+  {
+    "id": "299",
+    "english": "drought",
+    "persian": "خشکسالی",
+    "learned": false,
+    "description": "The drought destroyed all crops. — خشکسالی همه محصولات را از بین برد."
+  },
+  {
+    "id": "300",
+    "english": "vision",
+    "persian": "بینایی، دید",
+    "learned": false,
+    "description": "Sometimes wearing glasses can improve your vision. — گاهی عینک می‌تواند بینایی شما را بهبود بخشد."
+  },
+  {
+    "id": "301",
+    "english": "hesitate",
+    "persian": "تردید کردن",
+    "learned": false,
+    "description": "He was hesitating whether to leave or not. — او تردید داشت که آیا برود یا نه."
+  },
+  {
+    "id": "302",
+    "english": "explore",
+    "persian": "کشف کردن، بررسی کردن",
+    "learned": false,
+    "description": "The scientists explored the new planet. — دانشمندان سیاره جدید را کشف کردند."
+  },
+  {
+    "id": "303",
+    "english": "acquire",
+    "persian": "کسب کردن",
+    "learned": false,
+    "description": "The college acquired a reputation for very high standards. — دانشکده به دلیل استانداردهای بالا شهرت کسب کرد."
+  },
+  {
+    "id": "304",
+    "english": "modest",
+    "persian": "فروتن، متواضع",
+    "learned": false,
+    "description": "In behavior and speech, she was modest and kind. — در رفتار و صحبت او متواضع و مهربان بود."
+  },
+  {
+    "id": "305",
+    "english": "qualify",
+    "persian": "واجد شرایط بودن یا کردن",
+    "learned": false,
+    "description": "I am trying to qualify for the job which is vacant now. — من سعی می‌کنم برای این شغل که الان خالی است واجد شرایط باشم."
+  },
+  {
+    "id": "306",
+    "english": "emphatic",
+    "persian": "تاکیدی، موکد",
+    "learned": false,
+    "description": "He gave an emphatic order not to let anybody in. — او یک دستور موکد داد که اجازه ندهد کسی وارد شود."
+  },
+  {
+    "id": "307",
+    "english": "anxious",
+    "persian": "نگران، دلواپس",
+    "learned": false,
+    "description": "She was anxious that it might be cancer. — او نگران بود که ممکن است سرطان باشد."
+  },
+  {
+    "id": "308",
+    "english": "precisely",
+    "persian": "دقیقاً",
+    "learned": false,
+    "description": "Temperature can be measured precisely. — دما می‌تواند به طور دقیق اندازه‌گیری شود."
+  },
+  {
+    "id": "309",
+    "english": "moderately",
+    "persian": "به طور متعادل، نسبتا",
+    "learned": false,
+    "description": "She did moderately well in her exam. — او نسبتا در امتحان خوب عمل کرد."
+  },
+  {
+    "id": "310",
+    "english": "close to",
+    "persian": "تقریباً",
+    "learned": false,
+    "description": "In 1999, he was close to bankrupt. — در سال ۱۹۹۹ مشخص شد که او تقریبا ورشکسته بود."
+  },
+  {
+    "id": "311",
+    "english": "likewise",
+    "persian": "همین طور",
+    "learned": false,
+    "description": "He works very hard and expects his children to do likewise. — او سخت کار می‌کند و انتظار دارد بچه‌هایش همین طور عمل کنند."
+  },
+  {
+    "id": "312",
+    "english": "infer",
+    "persian": "استنباط کردن",
+    "learned": false,
+    "description": "What do you infer from his talks? — از حرف‌های او چه چیزی استنباط می‌کنی؟"
+  },
+  {
+    "id": "313",
+    "english": "differentiate",
+    "persian": "تشخیص دادن، تمیز دادن",
+    "learned": false,
+    "description": "It is important to differentiate between good and evil. — مهم است که خوب را از بد تمیز دهی."
+  },
+  {
+    "id": "314",
+    "english": "virtually",
+    "persian": "تقریباً",
+    "learned": false,
+    "description": "Virtually all the children come to school by bus. — تقریباً همه بچه‌ها با اتوبوس به مدرسه می‌آیند."
+  },
+  {
+    "id": "315",
+    "english": "responsive",
+    "persian": "پاسخگو",
+    "learned": false,
+    "description": "We try to be responsive to the needs of the customer. — ما سعی می‌کنیم به نیازهای مشتری پاسخگو باشیم."
+  },
+  {
+    "id": "316",
+    "english": "stimulate",
+    "persian": "تحریک کردن، برانگیختن",
+    "learned": false,
+    "description": "Light stimulates plant growth. — نور، رشد گیاه را تحریک می‌کند."
+  },
+  {
+    "id": "317",
+    "english": "tedious",
+    "persian": "خسته‌کننده، کسل‌کننده",
+    "learned": false,
+    "description": "It was a long and tedious journey. — یک سفر طولانی و کسل‌کننده بود."
+  },
+  {
+    "id": "318",
+    "english": "endeavor",
+    "persian": "تلاش",
+    "learned": false,
+    "description": "They made every endeavor to find the two boys. — آنها هر تلاشی برای پیدا کردن آن دو پسر کردند."
+  },
+  {
+    "id": "319",
+    "english": "triumph",
+    "persian": "پیروزی",
+    "learned": false,
+    "description": "They were happy with their triumph. — آنها از پیروزی خود خوشحال بودند."
+  },
+  {
+    "id": "320",
+    "english": "briefly",
+    "persian": "به طور مختصر",
+    "learned": false,
+    "description": "He responded briefly to the questions. — او به طور مختصر به سوالات پاسخ داد."
+  },
+  {
+    "id": "321",
+    "english": "belonging",
+    "persian": "متعلقات",
+    "learned": false,
+    "description": "Her belongings were entirely destroyed in the fire. — تمامی دارایی‌هایش در آتش از بین رفت."
+  },
+  {
+    "id": "322",
+    "english": "compulsory",
+    "persian": "اجباری",
+    "learned": false,
+    "description": "Doing military service is compulsory in many countries. — در برخی کشورها، خدمت سربازی اجباری است."
+  },
+  {
+    "id": "323",
+    "english": "get over",
+    "persian": "غلبه کردن / بهبود یافتن",
+    "learned": false,
+    "description": "I got over the flu. — من بر آنفلوانزا غلبه کردم."
+  },
+  {
+    "id": "324",
+    "english": "dismiss",
+    "persian": "مرخص کردن",
+    "learned": false,
+    "description": "Finally, Jim was dismissed from the hospital. — سرانجام جیم از بیمارستان مرخص شد."
+  },
+  {
+    "id": "325",
+    "english": "accumulate",
+    "persian": "تجمع کردن، انباشته شدن",
+    "learned": false,
+    "description": "Dust accumulated on the furniture. — گرد و غبار روی اثاث جمع شد."
+  },
+  {
+    "id": "326",
+    "english": "scarcity",
+    "persian": "کمیابی",
+    "learned": false,
+    "description": "Scarcity of food. — کمبود غذا."
+  },
+  {
+    "id": "327",
+    "english": "conduct",
+    "persian": "رفتار / رهبری کردن / انجام دادن / رسانا بودن",
+    "learned": false,
+    "description": "She conducted the orchestra this year. — او امسال گروه ارکستر را رهبری کرد."
+  },
+  {
+    "id": "328",
+    "english": "deteriorate",
+    "persian": "بدتر شدن",
+    "learned": false,
+    "description": "His health condition has deteriorated. — وضعیت سلامتی او بدتر شده است."
+  },
+  {
+    "id": "329",
+    "english": "activate",
+    "persian": "فعال کردن",
+    "learned": false,
+    "description": "This button activates the machine. — این دکمه، ماشین را فعال می‌کند."
+  },
+  {
+    "id": "330",
+    "english": "improvise",
+    "persian": "فی البداهه گفتن یا انجام دادن",
+    "learned": false,
+    "description": "She didn’t have time to prepare a speech, so she improvised one. — او زمان نداشت برای آماده کردن سخنرانی، بنابراین فی البداهه چیزی گفت."
+  },
+  {
+    "id": "331",
+    "english": "describe",
+    "persian": "توصیف کردن",
+    "learned": false,
+    "description": "Can you describe the story in detail? — می‌توانی داستان را با جزئیات توصیف کنی؟"
+  },
+  {
+    "id": "332",
+    "english": "equality",
+    "persian": "برابری",
+    "learned": false,
+    "description": "Equality of men and women’s rights. — برابری حقوق زنان و مردان."
+  },
+  {
+    "id": "333",
+    "english": "spontaneous",
+    "persian": "فی البداهه، خودبه‌خود",
+    "learned": false,
+    "description": "She sang a song spontaneously. — او فی البداهه یک آواز خواند."
+  },
+  {
+    "id": "334",
+    "english": "circumstances",
+    "persian": "شرایط",
+    "learned": false,
+    "description": "Under no circumstances. — تحت هیچ شرایطی."
+  },
+  {
+    "id": "335",
+    "english": "chase",
+    "persian": "دنبال کردن، تعقیب کردن",
+    "learned": false,
+    "description": "Dog chased the cat. — سگ گربه را دنبال کرد."
+  },
+  {
+    "id": "336",
+    "english": "empathy",
+    "persian": "همدردی",
+    "learned": false,
+    "description": "The nurse should try to develop empathy with the patient. — پرستار باید سعی کند با بیمار همدردی ایجاد کند."
+  },
+  {
+    "id": "337",
+    "english": "compassion",
+    "persian": "دلسوزی، شفقت",
+    "learned": false,
+    "description": "She was a compassionate woman who never tired of caring for others. — او زنی دلسوز بود که هرگز از مراقبت از دیگران خسته نمی‌شد."
+  },
+  {
+    "id": "338",
+    "english": "appreciate",
+    "persian": "تشکر کردن، قدردانی کردن",
+    "learned": false,
+    "description": "I appreciate your help. — از کمکتان سپاسگزارم."
+  },
+  {
+    "id": "339",
+    "english": "prescribe",
+    "persian": "تجویز کردن",
+    "learned": false,
+    "description": "The doctor prescribed a new drug for the patient. — دکتر داروی جدیدی برای بیمار تجویز کرد."
+  },
+  {
+    "id": "340",
+    "english": "hostile",
+    "persian": "دشمن، خصمانه",
+    "learned": false,
+    "description": "Hostile army. — ارتش دشمن."
+  },
+  {
+    "id": "341",
+    "english": "acquainted",
+    "persian": "آشنا",
+    "learned": false,
+    "description": "She and I became acquainted when we were working at the bank. — او و من وقتی در بانک کار می‌کردیم آشنا شدیم."
+  },
+  {
+    "id": "342",
+    "english": "intimate",
+    "persian": "صمیمی",
+    "learned": false,
+    "description": "Intimate friends. — دوستان صمیمی."
+  },
+  {
+    "id": "343",
+    "english": "detach",
+    "persian": "جدا کردن",
+    "learned": false,
+    "description": "Please detach the last section of the form, and fill out. — لطفا بخش آخر فرم را جدا کرده و پر کنید."
+  },
+  {
+    "id": "344",
+    "english": "intensity",
+    "persian": "شدت",
+    "learned": false,
+    "description": "Intensity of light. — شدت نور."
+  },
+  {
+    "id": "345",
+    "english": "dissolve",
+    "persian": "حل کردن یا حل شدن جامدات در مایعات",
+    "learned": false,
+    "description": "Dissolve this powder in water and drink it. — این پودر را در آب حل کرده و بنوشید."
+  },
+  {
+    "id": "346",
+    "english": "devour",
+    "persian": "بلعیدن",
+    "learned": false,
+    "description": "The lion devoured the lamb. — شیر بره را بلعید."
+  },
+  {
+    "id": "347",
+    "english": "sacrifice",
+    "persian": "قربانی کردن",
+    "learned": false,
+    "description": "They sacrificed their lives for the country. — آنها جانشان را برای کشور قربانی کردند."
+  },
+  {
+    "id": "348",
+    "english": "contradictory",
+    "persian": "متناقض",
+    "learned": false,
+    "description": "Contradictory statements confuse people. — بیانات متناقض مردم را گیج می‌کند."
+  },
+  {
+    "id": "349",
+    "english": "obligate",
+    "persian": "ملزم کردن، موظف کردن",
+    "learned": false,
+    "description": "The law obligates us to pay taxes. — قانون ما را موظف می‌کند که مالیات بپردازیم."
+  },
+  {
+    "id": "350",
+    "english": "boredom",
+    "persian": "خستگی، کسالت",
+    "learned": false,
+    "description": "Children started playing to relieve the boredom of a long journey. — بچه‌ها شروع به بازی کردند تا خستگی سفر طولانی را کم کنند."
+  },
+  {
+    "id": "351",
+    "english": "locate",
+    "persian": "مکان‌یابی کردن، قرار دادن",
+    "learned": false,
+    "description": "Can you locate the town on the map? — می‌توانی شهر را روی نقشه مکان‌یابی کنی؟"
+  },
+  {
+    "id": "352",
+    "english": "destroy",
+    "persian": "خراب کردن، ویران کردن",
+    "learned": false,
+    "description": "The earthquake completely destroyed the city. — زلزله کاملاً شهر را ویران کرد."
+  },
+  {
+    "id": "353",
+    "english": "dormant",
+    "persian": "غیر فعال، نهفته",
+    "learned": false,
+    "description": "A dormant volcano. — یک آتشفشان غیر فعال."
+  },
+  {
+    "id": "354",
+    "english": "assert",
+    "persian": "ادعا کردن",
+    "learned": false,
+    "description": "He asserted that nuclear power was a safe energy source. — او ادعا کرد انرژی هسته‌ای یک منبع انرژی امن است."
+  },
+  {
+    "id": "355",
+    "english": "portion",
+    "persian": "سهم، قسمت",
+    "learned": false,
+    "description": "Each brother claimed he deserved a larger portion. — هر برادر ادعا می‌کرد که سهم بزرگ‌تری از ارث دارد."
+  },
+  {
+    "id": "356",
+    "english": "suffocate",
+    "persian": "خفه کردن",
+    "learned": false,
+    "description": "The murderer suffocated the victim with a pillow. — قاتل قربانی را با بالش خفه کرد."
+  },
+  {
+    "id": "357",
+    "english": "reveal",
+    "persian": "افشا کردن",
+    "learned": false,
+    "description": "I promise not to reveal your secret. — قول می‌دهم رازت را افشا نکنم."
+  },
+  {
+    "id": "358",
+    "english": "investigate",
+    "persian": "بررسی کردن، تحقیق کردن",
+    "learned": false,
+    "description": "We must investigate the causes of cancer. — ما باید علل سرطان را بررسی کنیم."
+  },
+  {
+    "id": "359",
+    "english": "resident",
+    "persian": "ساکن، مقیم",
+    "learned": false,
+    "description": "Many Iranian people are now resident in Canada. — بسیاری از ایرانیان اکنون مقیم کانادا هستند."
+  },
+  {
+    "id": "360",
+    "english": "inhabit",
+    "persian": "زندگی کردن، ساکن بودن",
+    "learned": false,
+    "description": "Early humans inhabited these caves. — انسان‌های اولیه در این غارها زندگی می‌کردند."
+  },
+  {
+    "id": "361",
+    "english": "aggressive",
+    "persian": "۱. پرخاشگر ۲. مهاجم",
+    "learned": false,
+    "description": "Some children are more aggressive than others. — برخی از بچه‌ها پرخاشگرتر از بقیه هستند."
+  },
+  {
+    "id": "362",
+    "english": "prior",
+    "persian": "قبلی، پیشین",
+    "learned": false,
+    "description": "Without prior warning. — بدون هشدار قبلی."
+  },
+  {
+    "id": "363",
+    "english": "purify",
+    "persian": "تصفیه کردن",
+    "learned": false,
+    "description": "Green plants in the house will purify the air. — گیاهان سبز در خانه هوا را تصفیه خواهند کرد."
+  },
+  {
+    "id": "364",
+    "english": "attentive",
+    "persian": "مراقب، متوجه، هشیار",
+    "learned": false,
+    "description": "A good teacher is always attentive to their students. — یک معلم خوب همیشه به شاگردانش توجه می‌کند."
+  },
+  {
+    "id": "365",
+    "english": "solidify",
+    "persian": "سفت کردن، استحکام بخشیدن",
+    "learned": false,
+    "description": "Volcanic lava solidifies as it cools. — گدازه آتشفشانی وقتی خنک می‌شود سفت می‌شود."
+  },
+  {
+    "id": "366",
+    "english": "construct",
+    "persian": "ساختن / سازنده",
+    "learned": false,
+    "description": "The new library will be constructed on the site of the old one. — کتابخانه جدید در مکان قدیمی ساخته خواهد شد."
+  },
+  {
+    "id": "367",
+    "english": "feature",
+    "persian": "ویژگی",
+    "learned": false,
+    "description": "A keen sense of smell is a common feature among dogs. — حس بویایی تیز یک ویژگی مشترک بین سگ‌ها است."
+  },
+  {
+    "id": "368",
+    "english": "visible",
+    "persian": "قابل رویت",
+    "learned": false,
+    "description": "The ship was barely visible through the dense fog. — کشتی به سختی در میان مه غلیظ قابل رویت بود."
+  },
+  {
+    "id": "369",
+    "english": "trait",
+    "persian": "ویژگی",
+    "learned": false,
+    "description": "Arrogance is not an attractive personality trait. — غرور یک ویژگی شخصیتی جذاب نیست."
+  },
+  {
+    "id": "370",
+    "english": "present",
+    "persian": "ارائه دادن / هدیه / حاضر",
+    "learned": false,
+    "description": "You need to present evidence that shows you are not guilty. — شما لازم است شواهدی ارائه کنید که نشان دهد شما گناهکار نیستید."
+  },
+  {
+    "id": "371",
+    "english": "dense",
+    "persian": "متراکم، غلیظ",
+    "learned": false,
+    "description": "Dense fog made driving difficult. — مه غلیظ رانندگی را سخت کرد."
+  },
+  {
+    "id": "372",
+    "english": "survey",
+    "persian": "بررسی، نظرسنجی",
+    "learned": false,
+    "description": "The survey showed that trees are in good health. — بررسی نشان داد که درختان در سلامت خوبی هستند."
+  },
+  {
+    "id": "373",
+    "english": "abridge",
+    "persian": "خلاصه کردن",
+    "learned": false,
+    "description": "He tried to abridge the story into ten pages. — او سعی کرد داستان را در ده صفحه خلاصه کند."
+  },
+  {
+    "id": "374",
+    "english": "interest",
+    "persian": "۱. علاقه ۲. بهره بانکی",
+    "learned": false,
+    "description": "The interest on the loan is 16% per month. — بهره وام ۱۶ درصد در ماه است."
+  },
+  {
+    "id": "375",
+    "english": "disposal",
+    "persian": "انهدام، در اختیار کسی بودن",
+    "learned": false,
+    "description": "The house is at your disposal. — خانه در اختیار شماست."
+  },
+  {
+    "id": "376",
+    "english": "profit",
+    "persian": "سود، سود بردن",
+    "learned": false,
+    "description": "He profits from extra teaching. — او از تدریس اضافی سود می‌برد."
+  },
+  {
+    "id": "377",
+    "english": "select",
+    "persian": "انتخاب کردن",
+    "learned": false,
+    "description": "The selection of a new leader. — انتخاب یک رهبر جدید."
+  },
+  {
+    "id": "378",
+    "english": "severe",
+    "persian": "شدید",
+    "learned": false,
+    "description": "His injuries were fairly severe. — جراحاتش نسبتاً شدید بود."
+  },
+  {
+    "id": "379",
+    "english": "negligibly",
+    "persian": "به طور جزئی، اندک",
+    "learned": false,
+    "description": "Their results were negligibly different from each other. — نتایج آن‌ها به طور جزئی با یکدیگر متفاوت بودند."
+  },
+  {
+    "id": "380",
+    "english": "indicate",
+    "persian": "نشان دادن، دلالت داشتن",
+    "learned": false,
+    "description": "Rising interest rate was an indication of bad economic situation. — افزایش نرخ بهره نشانه اوضاع بد اقتصادی است."
+  },
+  {
+    "id": "381",
+    "english": "competent",
+    "persian": "لایق، شایسته",
+    "learned": false,
+    "description": "He is the only competent leader who can govern the country. — او تنها رهبر لایقی است که می‌تواند بر کشور حکم کند."
+  },
+  {
+    "id": "382",
+    "english": "competence",
+    "persian": "شایستگی، صلاحیت",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "383",
+    "english": "alert",
+    "persian": "هشیار، آگاه / هشدار دادن",
+    "learned": false,
+    "description": "The mayor alerted the citizens that they were in danger of hurricane. — شهردار به شهروندان هشدار داد که در خطر گردباد هستند."
+  },
+  {
+    "id": "384",
+    "english": "negligible",
+    "persian": "جزئی، ناچیز",
+    "learned": false,
+    "description": "The damage done to his property was negligible. — خسارت وارده به اموالش جزئی بود."
+  },
+  {
+    "id": "385",
+    "english": "negligent",
+    "persian": "سهل‌انگار، بی‌دقت",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "386",
+    "english": "suspect",
+    "persian": "مشکوک بودن / شک، ظن",
+    "learned": false,
+    "description": "The police suspected the neighbor, but there was not enough evidence to arrest him. — پلیس به همسایه مشکوک بود اما شواهد کافی وجود نداشت."
+  },
+  {
+    "id": "387",
+    "english": "irrigate",
+    "persian": "آبیاری کردن",
+    "learned": false,
+    "description": "Farmers have to irrigate this dry land to grow crops. — کشاورزان باید این زمین خشک را برای کشت محصولات آبیاری کنند."
+  },
+  {
+    "id": "388",
+    "english": "irrigation",
+    "persian": "آبیاری",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "389",
+    "english": "nourish",
+    "persian": "غذا دادن، تغذیه کردن",
+    "learned": false,
+    "description": "The mother’s milk is the best nourishment for a baby. — شیر مادر بهترین تغذیه برای کودک است."
+  },
+  {
+    "id": "390",
+    "english": "nourishment",
+    "persian": "تغذیه",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "391",
+    "english": "maintain",
+    "persian": "حفظ کردن، نگه داشتن",
+    "learned": false,
+    "description": "We maintained our friendship for many years. — ما دوستی‌مان را برای سال‌ها حفظ کردیم."
+  },
+  {
+    "id": "392",
+    "english": "maintenance",
+    "persian": "نگهداری، حفاظت",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "393",
+    "english": "temporary",
+    "persian": "موقت / به طور موقت",
+    "learned": false,
+    "description": "My job is temporary, so I will have to look for another. — شغل من موقتی است بنابراین مجبور خواهم شد دنبال یکی دیگر باشم."
+  },
+  {
+    "id": "394",
+    "english": "tradition",
+    "persian": "سنت، عرف",
+    "learned": false,
+    "description": "Tradition has preserved many of our ancient customs. — سنت‌ها بسیاری از رسوم قدیمی را حفظ کرده‌اند."
+  },
+  {
+    "id": "395",
+    "english": "ridiculous",
+    "persian": "مضحک، مسخره",
+    "learned": false,
+    "description": "These prices are ridiculous; no rational person will shop here. — قیمت‌ها مسخره‌اند؛ هیچ شخص عاقلی از اینجا خرید نمی‌کند."
+  },
+  {
+    "id": "396",
+    "english": "ridicule",
+    "persian": "تمسخر",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "397",
+    "english": "disbelief",
+    "persian": "عدم اعتقاد، ناباوری",
+    "learned": false,
+    "description": "His reaction to the murder was one of shock and disbelief. — واکنش او نسبت به قتل پر از شوک و ناباوری بود."
+  },
+  {
+    "id": "398",
+    "english": "disbelieve",
+    "persian": "اعتقاد نداشتن",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "399",
+    "english": "impulsive",
+    "persian": "عجول",
+    "learned": false,
+    "description": "He is very impulsive in his actions. — او در کارهایش خیلی عجول است."
+  },
+  {
+    "id": "400",
+    "english": "compel",
+    "persian": "مجبور کردن",
+    "learned": false,
+    "description": "A terrible sense of guilt compelled him to confess. — حس بدی از گناه او را مجبور کرد که اعتراف کند."
+  },
+  {
+    "id": "401",
+    "english": "compelling",
+    "persian": "قانع‌کننده",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "402",
+    "english": "pioneer",
+    "persian": "پیشکسوت، پیشگام",
+    "learned": false,
+    "description": "John Whitney was a pioneer of computer animation. — جان ویتنی در انیمیشن کامپیوتر پیشکسوت بود."
+  },
+  {
+    "id": "403",
+    "english": "conclude",
+    "persian": "نتیجه گرفتن، خاتمه دادن",
+    "learned": false,
+    "description": "From all the evidence, they concluded that the defendant was innocent. — از همه شواهد نتیجه گرفتند که متهم بی‌گناه بود."
+  },
+  {
+    "id": "404",
+    "english": "conclusion",
+    "persian": "نتیجه‌گیری، اختتامیه",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "405",
+    "english": "reliable",
+    "persian": "قابل اعتماد",
+    "learned": false,
+    "description": "Reliable evidence is essential in court. — شواهد قابل اعتماد در دادگاه ضروری است."
+  },
+  {
+    "id": "406",
+    "english": "rely on",
+    "persian": "اتکا کردن، اعتماد کردن",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "407",
+    "english": "ambitious",
+    "persian": "جاه‌طلب، بلندپرواز",
+    "learned": false,
+    "description": "A student who has always been diligent and ambitious. — دانش‌آموزی که همیشه ساعی و بلندپرواز بوده است."
+  },
+  {
+    "id": "408",
+    "english": "ambition",
+    "persian": "میل، آرزو",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "409",
+    "english": "urge",
+    "persian": "درخواست دادن / میل شدید",
+    "learned": false,
+    "description": "We urge you to adopt all necessary measures. — ما از شما خواستاریم همه اقدامات لازم را اتخاذ کنید."
+  },
+  {
+    "id": "410",
+    "english": "validate",
+    "persian": "اعتبار بخشیدن",
+    "learned": false,
+    "description": "Your signatures are needed to validate the contract. — امضاهای شما لازم است تا به قرارداد اعتبار ببخشند."
+  },
+  {
+    "id": "411",
+    "english": "valid",
+    "persian": "معتبر",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "412",
+    "english": "reject",
+    "persian": "رد کردن",
+    "learned": false,
+    "description": "She rejected his offer. — او پیشنهادش را رد کرد."
+  },
+  {
+    "id": "413",
+    "english": "rejection",
+    "persian": "رد، طرد",
+    "learned": false,
+    "description": " — "
+  },
+  {
+    "id": "414",
+    "english": "contract",
+    "persian": "۱. قرارداد ۲. منقبض شدن",
+    "learned": false,
+    "description": "Metals contract when they get cool and expand when warm. — فلزات وقتی سرد می‌شوند منقبض و وقتی گرم می‌شوند منبسط می‌شوند."
+  },
+  {
+    "id": "415",
+    "english": "contract",
+    "persian": "۱. قرارداد ۲. منقبض شدن",
+    "learned": false,
+    "description": "Metals contract when they get cool and expand when warm. — فلزات وقتی سرد می‌شوند منقبض و وقتی گرم می‌شوند منبسط می‌شوند."
+  },
+  {
+    "id": "416",
+    "english": "consume",
+    "persian": "مصرف کردن",
+    "learned": false,
+    "description": "Only 27% of the paper we consume is recycled. — تنها ۲۷٪ از کاغذی که مصرف می‌کنیم بازیافت می‌شود."
+  },
+  {
+    "id": "417",
+    "english": "enormous",
+    "persian": "عظیم",
+    "learned": false,
+    "description": "Whale is an enormous sea creature. — وال یک موجود دریایی عظیم است."
+  },
+  {
+    "id": "418",
+    "english": "characteristic",
+    "persian": "ویژگی، خصوصیت",
+    "learned": false,
+    "description": "One of the main characteristics of a camel is its ability to live for a long time without water. — یکی از ویژگی‌های شتر توانایی زندگی کردن بدون آب برای مدت طولانی است."
+  },
+  {
+    "id": "419",
+    "english": "preserve",
+    "persian": "حفظ کردن، نگه داشتن",
+    "learned": false,
+    "description": "The best way to preserve meat in summer. — بهترین روش برای حفظ کردن گوشت در تابستان."
+  },
+  {
+    "id": "420",
+    "english": "ensure",
+    "persian": "مطمئن شدن",
+    "learned": false,
+    "description": "Jim repaired the roof to ensure the house is wind-proof. — جیم سقف را تعمیر کرد تا مطمئن شود که خانه ضد باد است."
+  },
+  {
+    "id": "421",
+    "english": "enhance",
+    "persian": "افزایش دادن، بهتر کردن",
+    "learned": false,
+    "description": "Putting in a swimming pool will enhance the value of the property. — قرار دادن استخر ارزش ملک را بالا می‌برد."
+  },
+  {
+    "id": "422",
+    "english": "estimate",
+    "persian": "تخمین زدن، برآورد کردن",
+    "learned": false,
+    "description": "It is not easy to estimate how many people have the disease. — تخمین تعداد افراد مبتلا آسان نیست."
+  },
+  {
+    "id": "423",
+    "english": "durable",
+    "persian": "بادوام",
+    "learned": false,
+    "description": "These shoes are very durable. — این کفش‌ها بسیار بادوام هستند."
+  },
+  {
+    "id": "424",
+    "english": "absolutely",
+    "persian": "کاملاً، صد در صد",
+    "learned": false,
+    "description": "Her guess was absolutely right. — حدسش کاملاً درست بود."
+  },
+  {
+    "id": "425",
+    "english": "shortage",
+    "persian": "کمبود",
+    "learned": false,
+    "description": "Shortage of food. — کمبود غذا."
+  },
+  {
+    "id": "426",
+    "english": "persist",
+    "persian": "پافشاری کردن، ادامه دادن",
+    "learned": false,
+    "description": "Everyone told him the project would fail, but he persisted. — همه به او گفتند پروژه شکست خواهد خورد، اما او پافشاری کرد."
+  },
+  {
+    "id": "427",
+    "english": "enthusiastic",
+    "persian": "مشتاق، پرشور",
+    "learned": false,
+    "description": "I am enthusiastic about learning a new language. — من مشتاق یادگیری زبان جدید هستم."
+  },
+  {
+    "id": "428",
+    "english": "satisfy",
+    "persian": "راضی کردن، برآورده کردن",
+    "learned": false,
+    "description": "Are you satisfied with your exam result? — آیا از نتایج امتحانت راضی هستی؟"
+  },
+  {
+    "id": "429",
+    "english": "convince",
+    "persian": "متقاعد کردن، مطمئن شدن",
+    "learned": false,
+    "description": "Jim convinced her to lend him the car. — "
+  },
+  {
+    "id": "430",
+    "english": "impress",
+    "persian": "تحت تأثیر قرار دادن",
+    "learned": false,
+    "description": "Enormous size of tree impressed us. — اندازه عظیم درخت ما را تحت تأثیر قرار داد."
+  },
+  {
+    "id": "431",
+    "english": "reluctant",
+    "persian": "بی‌میل",
+    "learned": false,
+    "description": "She was reluctant to go to that party. — او بی‌میل بود برای رفتن به مهمانی."
+  },
+  {
+    "id": "432",
+    "english": "apathetic",
+    "persian": "بی‌علاقه، بی‌تفاوت",
+    "learned": false,
+    "description": "The teacher was disappointed to see apathy in the eyes of students. — معلم ناامید شد از دیدن بی‌علاقگی در چشمان دانش‌آموزان."
+  },
+  {
+    "id": "433",
+    "english": "intelligent",
+    "persian": "باهوش",
+    "learned": false,
+    "description": "He preferred intellectual challenges to physical ones. — او چالش‌های ذهنی را به جسمی ترجیح داد."
+  },
+  {
+    "id": "434",
+    "english": "cooperate",
+    "persian": "همکاری کردن",
+    "learned": false,
+    "description": "We will cooperate with you willingly. — ما با کمال میل با شما همکاری خواهیم کرد."
+  },
+  {
+    "id": "435",
+    "english": "merge",
+    "persian": "ادغام کردن",
+    "learned": false,
+    "description": "We can merge our two small businesses into a larger one. — ما می‌توانیم دو کسب‌وکار کوچکمان را به یک واحد بزرگتر ادغام کنیم."
+  },
+  {
+    "id": "436",
+    "english": "outstanding",
+    "persian": "برجسته، مشهور",
+    "learned": false,
+    "description": "Hafez is an outstanding Iranian poet. — حافظ یک شاعر ایرانی برجسته است."
+  },
+  {
+    "id": "437",
+    "english": "approve",
+    "persian": "تایید کردن",
+    "learned": false,
+    "description": "The Senate approved the legislation. — مجلس سنا قانون را تایید کرد."
+  },
+  {
+    "id": "438",
+    "english": "implement",
+    "persian": "اجرا کردن، انجام دادن",
+    "learned": false,
+    "description": "The government is going to implement reforms. — دولت قصد دارد اصلاحات را اجرا کند."
+  },
+  {
+    "id": "439",
+    "english": "evacuate",
+    "persian": "تخلیه کردن",
+    "learned": false,
+    "description": "The police are evacuating residents from the flood area. — پلیس در حال تخلیه ساکنین از محل سیل‌زده است."
+  },
+  {
+    "id": "440",
+    "english": "exploit",
+    "persian": "بهره‌برداری کردن",
+    "learned": false,
+    "description": "The country is attempting to exploit its vast mineral wealth. — کشور در تلاش است از ثروت عظیم معدنی خود بهره‌برداری کند."
+  },
+  {
+    "id": "441",
+    "english": "threaten",
+    "persian": "تهدید کردن",
+    "learned": false,
+    "description": "He threatened him with a gun. — او جیم را با اسلحه تهدید کرد."
+  },
+  {
+    "id": "442",
+    "english": "extinction",
+    "persian": "انقراض",
+    "learned": false,
+    "description": "Several plant species are threatened with extinction. — چندین گونه گیاهی در خطر انقراض هستند."
+  },
+  {
+    "id": "443",
+    "english": "please",
+    "persian": "راضی کردن، خرسند کردن",
+    "learned": false,
+    "description": "As a waiter I try to please the customers. — به عنوان یک پیشخدمت سعی می‌کنم مشتریان را راضی کنم."
+  },
+  {
+    "id": "444",
+    "english": "terminate",
+    "persian": "پایان دادن، خاتمه دادن",
+    "learned": false,
+    "description": "The court ruled that the contract must be terminated. — دادگاه دستور داد قرارداد باید خاتمه یابد."
+  },
+  {
+    "id": "445",
+    "english": "smoothly",
+    "persian": "به طور روان",
+    "learned": false,
+    "description": "Traffic flowed smoothly. — ترافیک به طور روان جریان داشت."
+  },
+  {
+    "id": "446",
+    "english": "fluently",
+    "persian": "به طور سلیس، روان",
+    "learned": false,
+    "description": "He speaks English fluently. — او انگلیسی را روان صحبت می‌کند."
+  },
+  {
+    "id": "447",
+    "english": "aim",
+    "persian": "۱. هدف ۲. هدف داشتن",
+    "learned": false,
+    "description": "The store aims to please its customers. — مغازه هدفش این است که مشتریان را راضی کند."
+  },
+  {
+    "id": "448",
+    "english": "obscure",
+    "persian": "مبهم، گنگ",
+    "learned": false,
+    "description": "Obscure writing. — نوشته مبهم."
+  },
+  {
+    "id": "449",
+    "english": "operate",
+    "persian": "کار کردن، به کار انداختن",
+    "learned": false,
+    "description": "This machine operates by remote control. — این ماشین با کنترل از راه دور کار می‌کند."
+  },
+  {
+    "id": "450",
+    "english": "declare",
+    "persian": "اعلام کردن",
+    "learned": false,
+    "description": "The congress declared war. — کنگره جنگ را اعلام کرد."
+  },
+  {
+    "id": "451",
+    "english": "compromise",
+    "persian": "توافق، سازش",
+    "learned": false,
+    "description": "Two sides eventually reached a compromise. — سرانجام دو طرف به توافق رسیدند."
+  },
+  {
+    "id": "452",
+    "english": "tightly",
+    "persian": "محکم",
+    "learned": false,
+    "description": "Fasten your seatbelt tightly. — کمربند ایمنی‌تان را محکم ببندید."
+  },
+  {
+    "id": "453",
+    "english": "elaborate",
+    "persian": "توضیح دادن / پیچیده",
+    "learned": false,
+    "description": "The motor has a very elaborate structure. — موتور ساختار پیچیده‌ای دارد."
+  },
+  {
+    "id": "454",
+    "english": "extensive",
+    "persian": "گسترده",
+    "learned": false,
+    "description": "The professor’s knowledge of her subject is remarkably extensive. — دانش استاد درباره موضوع به طور چشمگیری گسترده بود."
+  },
+  {
+    "id": "455",
+    "english": "deliberately",
+    "persian": "عمداً",
+    "learned": false,
+    "description": "He killed his wife deliberately. — او عمداً همسرش را کشت."
+  },
+  {
+    "id": "456",
+    "english": "descend",
+    "persian": "نزول کردن، پایین آمدن",
+    "learned": false,
+    "description": "It is easier to descend than to ascend. — پایین آمدن از بالارفتن آسان‌تر است."
+  },
+  {
+    "id": "457",
+    "english": "embark",
+    "persian": "شروع کردن",
+    "learned": false,
+    "description": "She decided to embark on a career of nursing. — او تصمیم گرفت شغل پرستاری را شروع کند."
+  },
+  {
+    "id": "458",
+    "english": "elevate",
+    "persian": "بالا بردن، ارتقا دادن",
+    "learned": false,
+    "description": "Reading a variety of books elevates the mind. — خواندن انواع کتاب ذهن را تعالی می‌بخشد."
+  },
+  {
+    "id": "459",
+    "english": "choice",
+    "persian": "انتخاب",
+    "learned": false,
+    "description": "I hope I choose the right gift for him. — امیدوارم هدیه درست برایش انتخاب کنم."
+  },
+  {
+    "id": "460",
+    "english": "preference",
+    "persian": "ارجحیت، اولویت",
+    "learned": false,
+    "description": "I prefer coffee to tea. — من قهوه را به چای ترجیح می‌دهم."
+  },
+  {
+    "id": "461",
+    "english": "apply",
+    "persian": "استفاده کردن، به کار بردن / تقاضا دادن",
+    "learned": false,
+    "description": "I want to apply for the job. — می‌خواهم تقاضای کار دهم."
+  },
+  {
+    "id": "462",
+    "english": "concentrate",
+    "persian": "تمرکز کردن / تمرکز",
+    "learned": false,
+    "description": "Could you be quiet so I can concentrate on my work? — می‌توانی ساکت باشی تا من روی کارم تمرکز کنم؟"
+  },
+  {
+    "id": "463",
+    "english": "consent",
+    "persian": "رضایت دادن، راضی بودن",
+    "learned": false,
+    "description": "Her parents consented to the marriage. — والدینش به ازدواج رضایت دادند."
+  },
+  {
+    "id": "464",
+    "english": "decorative",
+    "persian": "تزیینی",
+    "learned": false,
+    "description": "Decorative objects in the living room. — اشیای دکوری در اتاق نشیمن."
+  },
+  {
+    "id": "465",
+    "english": "external",
+    "persian": "خارجی",
+    "learned": false,
+    "description": "External factors can affect the outcome. — عوامل خارجی می‌توانند بر نتیجه تأثیر بگذارند."
+  },
+  {
+    "id": "466",
+    "english": "formal",
+    "persian": "رسمی",
+    "learned": false,
+    "description": "They have not announced their engagement formally. — آنها نامزدی خود را رسماً اعلام نکرده‌اند."
+  },
+  {
+    "id": "467",
+    "english": "enable",
+    "persian": "قادر ساختن",
+    "learned": false,
+    "description": "The bird’s wings enable it to fly. — بال‌های پرنده او را قادر می‌سازد پرواز کند."
+  },
+  {
+    "id": "468",
+    "english": "energize",
+    "persian": "انرژی دادن",
+    "learned": false,
+    "description": "His speech energized the crowd. — سخنرانی او به جمعیت انرژی داد."
+  },
+  {
+    "id": "469",
+    "english": "boundary",
+    "persian": "مرز",
+    "learned": false,
+    "description": "The boundary between two countries. — مرز بین دو کشور"
+  },
+  {
+    "id": "470",
+    "english": "margin",
+    "persian": "حاشیه",
+    "learned": false,
+    "description": "It is illegal to drive on the margin of a highway. — رانندگی در حاشیه بزرگراه غیرقانونی است."
+  },
+  {
+    "id": "471",
+    "english": "dedication",
+    "persian": "فداکاری، ازخودگذشتگی",
+    "learned": false,
+    "description": "I admire his dedication to the job. — من فداکاری او برای کارش را تحسین می‌کنم."
+  },
+  {
+    "id": "472",
+    "english": "emphasis",
+    "persian": "تأکید",
+    "learned": false,
+    "description": "This school puts a lot of emphasis on creativity. — این مدرسه تأکید زیادی روی خلاقیت دارد."
+  },
+  {
+    "id": "473",
+    "english": "achieve",
+    "persian": "بدست آوردن، نائل شدن",
+    "learned": false,
+    "description": "Mary finally achieved her goal of becoming a doctor. — ماری سرانجام به هدف دکتر شدنش نائل شد."
+  },
+  {
+    "id": "474",
+    "english": "cease",
+    "persian": "متوقف کردن یا متوقف شدن",
+    "learned": false,
+    "description": "The rain ceased and the sky cleared. — باران بند آمد و آسمان صاف شد."
+  },
+  {
+    "id": "475",
+    "english": "clarification",
+    "persian": "شفاف‌سازی",
+    "learned": false,
+    "description": "This matter needs further clarification. — این موضوع به شفاف‌سازی بیشتری نیاز دارد."
+  },
+  {
+    "id": "476",
+    "english": "instrument",
+    "persian": "ابزار",
+    "learned": false,
+    "description": "An instrument for the estimation of air humidity. — یک وسیله برای تخمین رطوبت هوا."
+  },
+  {
+    "id": "477",
+    "english": "orderly",
+    "persian": "با نظم",
+    "learned": false,
+    "description": "The chairs were arranged orderly. — صندلی‌ها با نظم چیده شدند."
+  },
+  {
+    "id": "478",
+    "english": "severe",
+    "persian": "شدید",
+    "learned": false,
+    "description": "His injuries were fairly severe. — جراحاتش نسبتاً شدید بود."
+  },
+  {
+    "id": "479",
+    "english": "break down",
+    "persian": "خراب شدن",
+    "learned": false,
+    "description": "My car broke down on my way home. — ماشینم سر راهم به خانه خراب شد."
+  },
+  {
+    "id": "480",
+    "english": "rescue",
+    "persian": "نجات دادن",
+    "learned": false,
+    "description": "Survivors of the crash were rescued by helicopter. — بازماندگان تصادف با هلیکوپتر نجات یافتند."
+  },
+  {
+    "id": "481",
+    "english": "sorrow",
+    "persian": "غم، اندوه",
+    "learned": false,
+    "description": "The sorrow of separation. — غم جدایی."
+  },
+  {
+    "id": "482",
+    "english": "take over",
+    "persian": "برعهده گرفتن، تصدی کردن",
+    "learned": false,
+    "description": "New management took over the responsibility of the company. — مدیریت جدید مسئولیت شرکت را برعهده گرفت."
+  },
+  {
+    "id": "483",
+    "english": "incredible",
+    "persian": "باور نکردنی",
+    "learned": false,
+    "description": "Incredible story. — داستان باور نکردنی."
+  },
+  {
+    "id": "484",
+    "english": "keep on",
+    "persian": "ادامه دادن",
+    "learned": false,
+    "description": "Mary kept on dancing even after the music stopped. — ماری به رقص ادامه می‌داد حتی بعد از اینکه موسیقی قطع شد."
+  },
+  {
+    "id": "485",
+    "english": "notorious",
+    "persian": "بدنام، رسوا",
+    "learned": false,
+    "description": "Notorious criminal. — یک مجرم بدنام."
+  },
+  {
+    "id": "486",
+    "english": "ascertain",
+    "persian": "فهمیدن، تشخیص دادن",
+    "learned": false,
+    "description": "The police are trying to ascertain how the thief entered the building. — پلیس دارد سعی می‌کند بفهمد دزد چگونه وارد ساختمان شد."
+  },
+  {
+    "id": "487",
+    "english": "unpleasant",
+    "persian": "ناخوشایند، نامطبوع",
+    "learned": false,
+    "description": "Unpleasant news. — اخبار ناخوشایند."
+  },
+  {
+    "id": "488",
+    "english": "expectation",
+    "persian": "انتظار، توقع",
+    "learned": false,
+    "description": "Fulfill somebody’s expectations. — برآورده کردن انتظارات کسی."
+  },
+  {
+    "id": "489",
+    "english": "evaluation",
+    "persian": "ارزیابی",
+    "learned": false,
+    "description": "In their evaluation of the project, they considered only certain aspects. — آنها در ارزیابی خود از پروژه تنها جنبه‌های خاصی را در نظر گرفتند."
+  },
+  {
+    "id": "490",
+    "english": "designation",
+    "persian": "اختصاص، تخصیص",
+    "learned": false,
+    "description": "The designation of parking area for the handicapped. — تخصیص محل پارکینگ برای افراد معلول."
+  },
+  {
+    "id": "491",
+    "english": "supposition",
+    "persian": "فرض، فرضیه",
+    "learned": false,
+    "description": "Suppose you are in my position, what would you do? — فرض کن شما جای من هستی، چه می‌کردی؟"
+  },
+  {
+    "id": "492",
+    "english": "depart",
+    "persian": "عازم شدن، حرکت کردن",
+    "learned": false,
+    "description": "Tabriz train will depart from platform 2 at 10 o’clock. — قطار تبریز ساعت ۱۰ از سکوی ۲ حرکت خواهد کرد."
+  },
+  {
+    "id": "493",
+    "english": "occasion",
+    "persian": "مناسبت، مورد",
+    "learned": false,
+    "description": "On the occasion of her graduation, her father gave a party. — به مناسبت فارغ‌التحصیلی‌اش، پدرش مهمانی داد."
+  },
+  {
+    "id": "494",
+    "english": "remote",
+    "persian": "دورافتاده",
+    "learned": false,
+    "description": "Remote areas. — مناطق دورافتاده."
+  },
+  {
+    "id": "495",
+    "english": "outdoor",
+    "persian": "فضای باز، هوازی",
+    "learned": false,
+    "description": "Outdoor sports. — ورزش‌های هوازی."
+  },
+  {
+    "id": "496",
+    "english": "optimistic",
+    "persian": "خوش‌بین",
+    "learned": false,
+    "description": "I am very optimistic about the future. — در مورد آینده خیلی خوش‌بین هستم."
+  },
+  {
+    "id": "497",
+    "english": "positive",
+    "persian": "مثبت، مطمئن",
+    "learned": false,
+    "description": "Positive attitude. — نگرش مثبت."
+  },
+  {
+    "id": "498",
+    "english": "comprehension",
+    "persian": "درک، فهم",
+    "learned": false,
+    "description": "You need not be poor to comprehend what hunger is. — لازم نیست فقیر باشی تا درک کنی گرسنگی چیست."
+  },
+  {
+    "id": "499",
+    "english": "confess",
+    "persian": "اعتراف کردن",
+    "learned": false,
+    "description": "She confessed to the crime after the police found additional evidence. — او به جرم اعتراف کرد بعد از اینکه پلیس شواهد اضافی یافت."
+  },
+  {
+    "id": "500",
+    "english": "conscious",
+    "persian": "آگاه، هشیار",
+    "learned": false,
+    "description": "I became conscious that someone is listening to my words. — من آگاه شدم که کسی به حرف‌هایم گوش می‌دهد."
+  },
+  {
+    "id": "501",
+    "english": "embarrass",
+    "persian": "شرمنده کردن",
+    "learned": false,
+    "description": "Don’t embarrass the child in front of the guests. — بچه را در مقابل مهمانان خجالت نده."
+  },
+  {
+    "id": "502",
+    "english": "jealous",
+    "persian": "حسود",
+    "learned": false,
+    "description": "Jim was jealous of his friend. — جیم به دوستش حسادت می‌کرد."
+  },
+  {
+    "id": "503",
+    "english": "unspoiled",
+    "persian": "بکر، دست‌نخورده",
+    "learned": false,
+    "description": "This part of jungle is unspoiled. — این قسمت از جنگل بکر است."
+  },
+  {
+    "id": "504",
+    "english": "deniable",
+    "persian": "قابل انکار",
+    "learned": false,
+    "description": "The facts are not simply deniable. — واقعیات به سادگی قابل انکار نیستند."
+  },
+  {
+    "id": "505",
+    "english": "exaggerate",
+    "persian": "غلو کردن",
+    "learned": false,
+    "description": "Don’t believe everything he says as he often exaggerates. — هر چیزی که او می‌گوید را باور نکن، او اغلب غلو می‌کند."
+  },
+  {
+    "id": "506",
+    "english": "predominate",
+    "persian": "غالب بودن",
+    "learned": false,
+    "description": "Pine trees predominate in this area of forest. — درختان کاج در این ناحیه از جنگل غالب هستند."
+  },
+  {
+    "id": "507",
+    "english": "profound",
+    "persian": "عمیق",
+    "learned": false,
+    "description": "The mother’s behavior has a profound impact on the developing child. — رفتار مادر تأثیر عمیقی بر رشد کودک دارد."
+  },
+  {
+    "id": "508",
+    "english": "adjust",
+    "persian": "تنظیم کردن",
+    "learned": false,
+    "description": "You can adjust the height of the chair. — شما می‌توانید ارتفاع صندلی را تنظیم کنید."
+  },
+  {
+    "id": "509",
+    "english": "mortal",
+    "persian": "فانی",
+    "learned": false,
+    "description": "All living creatures are mortal. — همه موجودات زنده فانی هستند."
+  },
+  {
+    "id": "510",
+    "english": "misunderstand",
+    "persian": "اشتباه متوجه شدن",
+    "learned": false,
+    "description": "I misunderstood my teacher when he told the deadline of the paper. — من منظور معلم را اشتباه متوجه شدم وقتی به ما گفت مهلت پایانی مقاله را."
+  },
+  {
+    "id": "511",
+    "english": "misuse",
+    "persian": "سو استفاده کردن / غلط به کار بردن / بدرفتاری",
+    "learned": false,
+    "description": "His misuse of government funds. — او از بودجه دولت سوء استفاده می‌کند."
+  },
+  {
+    "id": "512",
+    "english": "insure",
+    "persian": "بیمه کردن",
+    "learned": false,
+    "description": "We insured our house against flooding. — ما خانه را در مقابل سیل بیمه کردیم."
+  },
+  {
+    "id": "513",
+    "english": "arbitrary",
+    "persian": "دلبخواهی",
+    "learned": false,
+    "description": "He hired and fired employees arbitrarily. — او کارمندانش را دلبخواهی استخدام و اخراج می‌کند."
+  },
+  {
+    "id": "514",
+    "english": "procedure",
+    "persian": "روند، روال",
+    "learned": false,
+    "description": "These actions are part of court procedure. — این کارها قسمتی از روال دادگاه هستند."
+  },
+  {
+    "id": "515",
+    "english": "relevant",
+    "persian": "مربوط",
+    "learned": false,
+    "description": "All information relevant to his responsibilities. — همه اطلاعات مربوط به مسئولیتش."
+  },
+  {
+    "id": "516",
+    "english": "exceptional",
+    "persian": "استثنایی",
+    "learned": false,
+    "description": "Exceptional talent. — استعداد استثنایی."
+  },
+  {
+    "id": "517",
+    "english": "refer to",
+    "persian": "اشاره کردن / رجوع کردن",
+    "learned": false,
+    "description": "If you don’t understand the meaning of any word, you can refer to the dictionary. — اگر معنی لغتی را نمی‌دانید، می‌توانید به دیکشنری رجوع کنید."
+  },
+  {
+    "id": "518",
+    "english": "refuse",
+    "persian": "خودداری کردن، امتناع کردن",
+    "learned": false,
+    "description": "Many people refused to obey the new law. — بسیاری از مردم خودداری کردند که از قانون جدید اطاعت کنند."
+  },
+  {
+    "id": "519",
+    "english": "approach",
+    "persian": "روش، رویکرد / نزدیک شدن",
+    "learned": false,
+    "description": "The child approached the dog carefully. — بچه با دقت به سگ نزدیک شد."
+  },
+  {
+    "id": "520",
+    "english": "pollution",
+    "persian": "آلودگی",
+    "learned": false,
+    "description": "Air pollution. — آلودگی هوا."
+  },
+  {
+    "id": "521",
+    "english": "mature",
+    "persian": "بالغ، رسیده",
+    "learned": false,
+    "description": "Girls mature faster than boys. — دختران سریع‌تر از پسران بالغ می‌شوند."
+  },
+  {
+    "id": "522",
+    "english": "majority",
+    "persian": "اکثریت",
+    "learned": false,
+    "description": "Our candidate won a majority of the votes. — کاندیدای ما اکثریت آرا را به دست آورد."
+  },
+  {
+    "id": "523",
+    "english": "contaminate",
+    "persian": "آلوده کردن",
+    "learned": false,
+    "description": "Chemicals contaminate the water supply. — مواد شیمیایی منابع آب را آلوده می‌کنند."
+  },
+  {
+    "id": "524",
+    "english": "toxic",
+    "persian": "سمی",
+    "learned": false,
+    "description": "Toxic chemicals. — مواد شیمیایی سمی."
+  },
+  {
+    "id": "525",
+    "english": "hazardous",
+    "persian": "خطرناک",
+    "learned": false,
+    "description": "Hazardous air pollutants. — آلاینده‌های خطرناک هوایی."
+  },
+  {
+    "id": "526",
+    "english": "afford",
+    "persian": "استطاعت مالی داشتن",
+    "learned": false,
+    "description": "I cannot afford to buy such an expensive car. — از عهده خرید چنین ماشین"
+  },
+  {
+    "id": "527",
+    "english": "consent",
+    "persian": "رضایت دادن / راضی بودن",
+    "learned": false,
+    "description": "Her parents consented to the marriage. — والدینش به ازدواج رضایت دادند."
+  },
+  {
+    "id": "528",
+    "english": "decorative",
+    "persian": "تزیینی",
+    "learned": false,
+    "description": "Decorative objects in the living room. — اشیای دکوری در اتاق نشیمن."
+  },
+  {
+    "id": "529",
+    "english": "external",
+    "persian": "خارجی",
+    "learned": false,
+    "description": "External factors can affect the outcome. — عوامل خارجی می‌توانند بر نتیجه تأثیر بگذارند."
+  },
+  {
+    "id": "530",
+    "english": "formal",
+    "persian": "رسمی",
+    "learned": false,
+    "description": "They have not announced their engagement formally. — آنها نامزدی خود را رسماً اعلام نکرده‌اند."
+  },
+  {
+    "id": "531",
+    "english": "enable",
+    "persian": "قادر ساختن",
+    "learned": false,
+    "description": "The bird’s wings enable it to fly. — بال‌های پرنده او را قادر می‌سازد پرواز کند."
+  },
+  {
+    "id": "532",
+    "english": "energize",
+    "persian": "انرژی دادن",
+    "learned": false,
+    "description": "His speech energized the crowd. — سخنرانی او به جمعیت انرژی داد."
+  },
+  {
+    "id": "533",
+    "english": "boundary",
+    "persian": "مرز",
+    "learned": false,
+    "description": "The boundary between two countries. — مرز بین دو کشور"
+  },
+  {
+    "id": "534",
+    "english": "margin",
+    "persian": "حاشیه",
+    "learned": false,
+    "description": "It is illegal to drive on the margin of a highway. — رانندگی در حاشیه بزرگراه غیرقانونی است."
+  },
+  {
+    "id": "535",
+    "english": "dedication",
+    "persian": "فداکاری / ازخودگذشتگی",
+    "learned": false,
+    "description": "I admire his dedication to the job. — من فداکاری او برای کارش را تحسین می‌کنم."
+  },
+  {
+    "id": "536",
+    "english": "emphasis",
+    "persian": "تأکید",
+    "learned": false,
+    "description": "This school puts a lot of emphasis on creativity. — این مدرسه تأکید زیادی روی خلاقیت دارد."
+  },
+  {
+    "id": "537",
+    "english": "attractive",
+    "persian": "جذاب",
+    "learned": false,
+    "description": "A smile makes every face attractive. — لبخند هر صورتی را جذاب می‌کند."
+  },
+  {
+    "id": "538",
+    "english": "unwilling",
+    "persian": "بی‌میل، reluctant",
+    "learned": false,
+    "description": "They were unwilling to invest in the project. — آنها بی‌میل بودند که در پروژه سرمایه‌گذاری کنند."
+  },
+  {
+    "id": "539",
+    "english": "probability",
+    "persian": "احتمال، شانس",
+    "learned": false,
+    "description": "The probability of earthquake occurrence is high. — احتمال وقوع زلزله بالا است."
+  },
+  {
+    "id": "540",
+    "english": "disrupt",
+    "persian": "مختل کردن، برهم زدن",
+    "learned": false,
+    "description": "The storm disrupted the telephone lines throughout the area. — طوفان خطوط تلفن کل منطقه را مختل کرد."
+  },
+  {
+    "id": "541",
+    "english": "indistinctly",
+    "persian": "به طور مبهم، نامشخص",
+    "learned": false,
+    "description": "He speaks so indistinctly that many listeners did not understand him. — او انقدر نامفهوم صحبت می‌کند که بسیاری از شنوندگان نفهمیدند چه چیزی می‌گفت."
+  },
+  {
+    "id": "542",
+    "english": "principal",
+    "persian": "1. مدیر مدرسه 2. مهم، اصلی",
+    "learned": false,
+    "description": "Our principal problem is lack of time. — مشکل عمده ما کمبود وقت است."
+  },
+  {
+    "id": "543",
+    "english": "manual",
+    "persian": "1. دستی 2. دفترچه راهنما",
+    "learned": false,
+    "description": "Making small models requires manual skill. — ساختن مدل‌های کوچک مهارت یدی می‌طلبد."
+  },
+  {
+    "id": "544",
+    "english": "disturbing",
+    "persian": "نگران‌کننده",
+    "learned": false,
+    "description": "The news was very disturbing. — خبر خیلی نگران‌کننده بود."
+  },
+  {
+    "id": "545",
+    "english": "extraordinary",
+    "persian": "خارق‌العاده، استثنایی",
+    "learned": false,
+    "description": "Mozart had extraordinary musical talent as a child. — موزارت استعداد خارق‌العاده موسیقیایی داشت به عنوان یک بچه."
+  },
+  {
+    "id": "546",
+    "english": "imply",
+    "persian": "دلالت کردن، اشاره داشتن",
+    "learned": false,
+    "description": "Did his silence imply consent? — آیا سکوت او حاکی از رضایت بود؟"
+  },
+  {
+    "id": "547",
+    "english": "involve",
+    "persian": "1. شامل شدن 2. شرکت دادن",
+    "learned": false,
+    "description": "Establishing a new business involves risk. — تاسیس کسب‌وکار جدید شامل ریسک زیادی است."
+  },
+  {
+    "id": "548",
+    "english": "mysterious",
+    "persian": "اسرارآمیز، سری",
+    "learned": false,
+    "description": "The mysterious box. — جعبه اسرارآمیز."
+  },
+  {
+    "id": "549",
+    "english": "in contrast",
+    "persian": "در مقابل، برعکس",
+    "learned": false,
+    "description": "He is not guilty. On the contrary, he is innocent. — او گناهکار نیست؛ برعکس، او بی‌گناه است."
+  },
+  {
+    "id": "550",
+    "english": "praise",
+    "persian": "تحسین کردن، تمجید کردن",
+    "learned": false,
+    "description": "The teacher praised all his students. — معلم از همه دانش‌آموزانش تعریف کرد."
+  },
+  {
+    "id": "551",
+    "english": "adopt",
+    "persian": "1. قبول کردن 2. اتخاذ کردن",
+    "learned": false,
+    "description": "They decided to adopt a child. — آنها تصمیم گرفتند یک بچه را به فرزندخواندگی قبول کنند."
+  },
+  {
+    "id": "552",
+    "english": "privilege",
+    "persian": "امتیاز، مزیت",
+    "learned": false,
+    "description": "Senior management enjoys certain privileges. — مدیریت ارشد از امتیازات خاصی برخوردار است."
+  },
+  {
+    "id": "553",
+    "english": "perceive",
+    "persian": "درک کردن، فهمیدن",
+    "learned": false,
+    "description": "The students are learning how the brain perceives sound. — دانش‌آموزان یاد می‌گیرند که مغز صدا را چگونه درک می‌کند."
+  },
+  {
+    "id": "554",
+    "english": "administer",
+    "persian": "مدیریت کردن، اداره کردن",
+    "learned": false,
+    "description": "The Department of Agriculture administers the food program. — بخش کشاورزی برنامه غذایی را اداره می‌کند."
+  },
+  {
+    "id": "555",
+    "english": "inspect",
+    "persian": "بازرسی کردن، تفتیش کردن",
+    "learned": false,
+    "description": "They inspected all suitcases carefully. — آنها همه چمدان‌ها را با دقت بازرسی کردند."
+  },
+  {
+    "id": "556",
+    "english": "survive",
+    "persian": "جان سالم به در بردن، زنده ماندن",
+    "learned": false,
+    "description": "They were trapped in a cave for days, and it was a miracle that they survived. — آنها چند روز در غار گیر کرده بودند و معجزه بود که زنده ماندند."
+  },
+  {
+    "id": "557",
+    "english": "anticipate",
+    "persian": "پیش‌بینی کردن / انتظار داشتن",
+    "learned": false,
+    "description": "We anticipate that sales will rise next year. — "
+  },
+  {
+    "id": "558",
+    "english": "manufacture",
+    "persian": "ساختن / تولید کردن",
+    "learned": false,
+    "description": "This factory manufactures machine parts. — "
+  },
+  {
+    "id": "559",
+    "english": "violate",
+    "persian": "نقض کردن / سرپیچی کردن",
+    "learned": false,
+    "description": "He violated the traffic rules. — "
+  },
+  {
+    "id": "560",
+    "english": "tolerance",
+    "persian": "تحمل / بردباری",
+    "learned": false,
+    "description": "I have no tolerance for lies. — "
+  },
+  {
+    "id": "561",
+    "english": "occur",
+    "persian": "رخ دادن / اتفاق افتادن",
+    "learned": false,
+    "description": "When did the incident occur? — "
+  },
+  {
+    "id": "562",
+    "english": "delicate",
+    "persian": "ظریف / لطیف",
+    "learned": false,
+    "description": "She has delicate skin. — "
+  },
+  {
+    "id": "563",
+    "english": "fulfill",
+    "persian": "برآورده کردن",
+    "learned": false,
+    "description": "He fulfilled his promise. — "
+  },
+  {
+    "id": "564",
+    "english": "necessitate",
+    "persian": "ایجاب کردن / ملزم کردن",
+    "learned": false,
+    "description": "Lack of money necessitated a change of plan. — "
+  },
+  {
+    "id": "565",
+    "english": "certainty",
+    "persian": "اطمینان / قطعیت",
+    "learned": false,
+    "description": "She was certain to pass the exam. — "
+  },
+  {
+    "id": "566",
+    "english": "criticize",
+    "persian": "انتقاد کردن",
+    "learned": false,
+    "description": "It is dangerous to criticize the government. — "
+  },
+  {
+    "id": "567",
+    "english": "scold",
+    "persian": "سرزنش کردن",
+    "learned": false,
+    "description": "Don’t scold him for doing badly at school. — "
+  },
+  {
+    "id": "568",
+    "english": "fierce",
+    "persian": "خشن / عصبانی",
+    "learned": false,
+    "description": "The manager blamed his employee fiercely. — "
+  },
+  {
+    "id": "569",
+    "english": "deadly",
+    "persian": "مهلک / مرگبار",
+    "learned": false,
+    "description": "A gun is a deadly weapon. — "
+  },
+  {
+    "id": "570",
+    "english": "subsequently",
+    "persian": "بعداً / پس از آن",
+    "learned": false,
+    "description": "They met in 1992 and subsequently got married. — "
+  },
+  {
+    "id": "571",
+    "english": "mutual",
+    "persian": "متقابل / دوطرفه",
+    "learned": false,
+    "description": "They reached a mutually acceptable figure. — "
+  },
+  {
+    "id": "572",
+    "english": "prosperous",
+    "persian": "موفق / آباد",
+    "learned": false,
+    "description": "A prosperous country. — "
+  },
+  {
+    "id": "573",
+    "english": "identical",
+    "persian": "یکسان / مشابه",
+    "learned": false,
+    "description": "Identical twins. — "
+  },
+  {
+    "id": "574",
+    "english": "strict",
+    "persian": "سخت‌گیر / اکید",
+    "learned": false,
+    "description": "She was a strict teacher. — "
+  },
+  {
+    "id": "575",
+    "english": "convince",
+    "persian": "متقاعد کردن",
+    "learned": false,
+    "description": "Jim convinced her to lend him the car. — "
+  },
+  {
+    "id": "576",
+    "english": "execute",
+    "persian": "اجرا کردن / انجام دادن",
+    "learned": false,
+    "description": "The system can execute multiple programs. — "
+  },
+  {
+    "id": "577",
+    "english": "erupt",
+    "persian": "فوران کردن",
+    "learned": false,
+    "description": "Lava erupts from a volcano. — "
+  },
+  {
+    "id": "578",
+    "english": "diminish",
+    "persian": "کم شدن / کاهش یافتن",
+    "learned": false,
+    "description": "Their objections did not diminish their love. — "
+  },
+  {
+    "id": "579",
+    "english": "pacify",
+    "persian": "آرام کردن",
+    "learned": false,
+    "description": "Nothing could pacify the furious crowd. — "
+  },
+  {
+    "id": "580",
+    "english": "collide",
+    "persian": "تصادف کردن / برخورد کردن",
+    "learned": false,
+    "description": "The cars collided in the icy parking lot. — "
+  },
+  {
+    "id": "581",
+    "english": "launch",
+    "persian": "پرتاب کردن / شروع کردن",
+    "learned": false,
+    "description": "They launched a new business. — "
+  },
+  {
+    "id": "582",
+    "english": "facilitate",
+    "persian": "تسهیل کردن / آسان کردن",
+    "learned": false,
+    "description": "Friendly contacts facilitate cultural interchange. — "
+  },
+  {
+    "id": "583",
+    "english": "trivial",
+    "persian": "جزئی / کم‌اهمیت",
+    "learned": false,
+    "description": "There had been a few trivial complaints. — "
+  },
+  {
+    "id": "584",
+    "english": "keen",
+    "persian": "تیز / مشتاق",
+    "learned": false,
+    "description": "She is very keen on art. — "
+  },
+  {
+    "id": "585",
+    "english": "abandon",
+    "persian": "ترک کردن / رها کردن",
+    "learned": false,
+    "description": "He abandoned his family. — "
+  },
+  {
+    "id": "586",
+    "english": "mainly",
+    "persian": "عمدتاً / بیشتر",
+    "learned": false,
+    "description": "The rise in crime is mainly due to social factors. — "
+  }
+]
