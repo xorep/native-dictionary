@@ -242,7 +242,7 @@ export default function App() {
 
       {/* ===================== FullScreen Modal ===================== */}
       <Modal transparent={false} visible={modalVisible} animationType="slide">
-        <View style={{ flex: 1, backgroundColor: "#fff", padding: 20 }}>
+        <View style={{ flex: 1, backgroundColor: "#fff", padding: 20, marginBottom: 20 ,marginTop: 10}}>
           
           {/* Header + Switch */}
           <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "center", marginBottom: 10 }}>
@@ -377,7 +377,7 @@ export default function App() {
 // ---------- styles ----------
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 16, backgroundColor: "#f3f3f3" },
-  title: { fontSize: 24, textAlign: "center", marginBottom: 16, fontWeight: "bold" },
+  title: { fontSize: 24, textAlign: "center", marginBottom: 16,marginTop: 14, fontWeight: "bold" },
 
   searchRow: { flexDirection: "row-reverse", gap: 4, alignItems: "center", marginBottom: 12 },
   searchInput: {
