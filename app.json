@@ -2,7 +2,7 @@
   "expo": {
     "name": "لغت نامه",
     "slug": "my-expo-app",
-    "version": "1.3.1",
+    "version": "1.3.2",
     "web": {
       "favicon": "./assets/favicon.png"
     },
