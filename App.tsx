@@ -19,6 +19,7 @@ type Word = {
   persian: string;
   learned: boolean;
   description?: string;
+  description2?: string;
 };
 
 type FilterType = 'all' | 'learned' | 'notLearned';
@@ -33,6 +34,7 @@ export default function App() {
 
   const [selectedWord, setSelectedWord] = useState<Word | null>(null);
   const [descriptionInput, setDescriptionInput] = useState('');
+  const [descriptionInput2, setDescriptionInput2] = useState('');
 
   const [englishInput, setEnglishInput] = useState('');
   const [persianInput, setPersianInput] = useState('');
@@ -78,6 +80,7 @@ export default function App() {
       persian: persianInput,
       learned: false,
       description: '',
+      description2: '',
     };
 
     saveWords([newWord, ...words]);
@@ -98,7 +101,6 @@ export default function App() {
     );
     saveWords(updated);
 
-    // Update selectedWord for animation
     if (selectedWord?.id === id) {
       setSelectedWord({ ...selectedWord, learned: !selectedWord.learned });
     }
@@ -126,15 +128,19 @@ export default function App() {
     setCurrentIndex(index);
     setSelectedWord(word);
     setDescriptionInput(word.description || '');
+    setDescriptionInput2(word.description2 || '');
     setShowDetails(false);
     setModalVisible(true);
   };
 
+  // ---------- Save Description ----------
   const saveDescription = () => {
     if (!selectedWord) return;
 
     const updated = words.map(word =>
-      word.id === selectedWord.id ? { ...word, description: descriptionInput } : word
+      word.id === selectedWord.id
+        ? { ...word, description: descriptionInput, description2: descriptionInput2 }
+        : word
     );
     saveWords(updated);
     setModalVisible(false);
@@ -147,6 +153,7 @@ export default function App() {
     const newWord = words[newIndex];
     setSelectedWord(newWord);
     setDescriptionInput(newWord.description || '');
+    setDescriptionInput2(newWord.description2 || '');
   };
 
   const goPrev = () => {
@@ -155,17 +162,14 @@ export default function App() {
     const newWord = words[newIndex];
     setSelectedWord(newWord);
     setDescriptionInput(newWord.description || '');
+    setDescriptionInput2(newWord.description2 || '');
   };
 
-  // ===========================================================
   // ======================= UI ================================
-  // ===========================================================
-
   return (
     <View style={styles.container}>
       <Text style={styles.title}>لغت‌نامه</Text>
 
-      {/* Search + Add */}
       <View style={styles.searchRow}>
         <TextInput
           placeholder="...جستجو"
@@ -178,7 +182,6 @@ export default function App() {
         </Pressable>
       </View>
 
-      {/* Filter */}
       <View style={styles.filterContainer}>
         <Pressable onPress={() => setFilter('all')} style={[styles.filterButton, filter === 'all' && styles.filterActive]}>
           <Text>همه ({totalCount})</Text>
@@ -193,7 +196,6 @@ export default function App() {
         </Pressable>
       </View>
 
-      {/* List */}
       <FlatList
         data={filteredWords}
         keyExtractor={item => item.id}
@@ -219,7 +221,7 @@ export default function App() {
         )}
       />
 
-      {/* ===================== Add Modal ===================== */}
+      {/* Add Modal */}
       <Modal transparent visible={addModalVisible} animationType="fade">
         <View style={styles.modalBackground}>
           <View style={styles.modalContent}>
@@ -240,33 +242,27 @@ export default function App() {
         </View>
       </Modal>
 
-      {/* ===================== FullScreen Modal ===================== */}
+      {/* FullScreen Modal */}
       <Modal transparent={false} visible={modalVisible} animationType="slide">
-        <View style={{ flex: 1, backgroundColor: "#fff", padding: 20, marginBottom: 20 ,marginTop: 10}}>
-          
-          {/* Header + Switch */}
+        <View style={{ flex: 1, backgroundColor: "#fff", padding: 20, marginTop: 10 }}>
           <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "center", marginBottom: 10 }}>
             {selectedWord && (
-              
               <Switch
                 trackColor={{ false: "#ccc", true: "black" }}
-                thumbColor={selectedWord.learned ? "#fff" : "#fff"}
+                thumbColor="#fff"
                 ios_backgroundColor="#ccc"
                 value={selectedWord.learned}
                 onValueChange={() => toggleLearned(selectedWord.id)}
               />
-              
-              
             )}
 
             <Text style={{ fontSize: 26, fontWeight: "bold", textAlign: "center", flex: 1 }}>
                {selectedWord ? `${selectedWord.id}. ${selectedWord.english}` : ""}
             </Text>
 
-            <View style={{ width: 50 }} /> {/* برای تعادل */}
+            <View style={{ width: 50 }} />
           </View>
 
-          {/* Toggle Details */}
           <Pressable
             onPress={() => setShowDetails(!showDetails)}
             style={{
@@ -283,7 +279,6 @@ export default function App() {
             </Text>
           </Pressable>
 
-          {/* Details */}
           {showDetails && (
             <View style={{ flex: 1 }}>
               <Text style={{ fontSize: 20, marginBottom: 10, textAlign: "center" }}>
@@ -296,21 +291,34 @@ export default function App() {
                   borderColor: "#ccc",
                   padding: 10,
                   borderRadius: 8,
-                  minHeight: 300,
-                  textAlignVertical: "top"
+                  minHeight: 100,
+                  textAlignVertical: "top",
+                  marginBottom: 10
                 }}
                 multiline
                 value={descriptionInput}
                 onChangeText={setDescriptionInput}
                 placeholder="توضیحات..."
               />
+              <TextInput
+                style={{
+                  borderWidth: 1,
+                  borderColor: "#ccc",
+                  padding: 10,
+                  borderRadius: 8,
+                  minHeight: 100,
+                  textAlignVertical: "top"
+                }}
+                multiline
+                value={descriptionInput2}
+                onChangeText={setDescriptionInput2}
+                placeholder="توضیحات..."
+              />
             </View>
           )}
-          {!showDetails && (
-            <View style={{ flex: 1 }} />
-          )}
 
-          {/* Prev - Save - Next */}
+          {!showDetails && <View style={{ flex: 1 }} />}
+
           <View style={{ flexDirection: "row", justifyContent: "space-between", marginTop: 20 }}>
             <Pressable
               onPress={goPrev}
@@ -355,7 +363,6 @@ export default function App() {
             </Pressable>
           </View>
 
-          {/* Close */}
           <Pressable
             onPress={() => setModalVisible(false)}
             style={{
